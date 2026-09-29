@@ -1,0 +1,282 @@
+[
+  {
+    "scene_id": "SC01",
+    "kind": "location",
+    "source": "House Front Yard",
+    "adapted": "Kothi da aangan",
+    "reason": "Exact Majha place identity rather than a generic Indian house."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "action",
+    "source": "A modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.",
+    "adapted": "A modest do-manzila kothi. Dew on the grass. A lohe da gate that never quite closes. Jaswant (28), restless, stands with an unopened envelope. He has not slept.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "action",
+    "source": "MOTHER (55) watches from the doorway, a shawl around her shoulders. SISTER (22) sits on the low wall, pretending to check her phone.",
+    "adapted": "Bebe (55) watches from the verandah de darwaze, a phulkari-border dupatta around her shoulders. Simran (22) sits on the aangan di kandh, pretending to check her mobile.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "action",
+    "source": "He turns the envelope over. The handwriting is his uncle's.",
+    "adapted": "He turns the envelope over. The handwriting is his Mama's.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "action",
+    "source": "Adam does not answer. He puts the letter back in his jacket pocket and walks toward the kitchen door. Mother's worry stays on her face. Sister follows him with her eyes, then looks down.",
+    "adapted": "Jaswant does not answer. He puts the letter back in his khaddar jacket de pocket and walks toward the rasoi door. Bebe's worry stays on her face. Simran follows him with her eyes, then looks down.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "dialogue",
+    "source": "Mother: You came back late. You always do this when something is wrong.",
+    "adapted": "Surjit Kaur: Tu late aa gya, puttar. Jadon kujh gal hundi ae, tu aidaan hi ghumda ae.",
+    "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "dialogue",
+    "source": "Adam: Nothing is wrong. I just needed air.",
+    "adapted": "Jaswant Singh: Kujh gal nahi, Bebe. Saah lain nu bahar aaya si.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "dialogue",
+    "source": "Sister: That letter has been in your pocket for two days. Either open it or give it to her.",
+    "adapted": "Simran Kaur: Oh chiTThi do din to pocket vich pae. Ja khol, ja Bebe nu de de.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC01",
+    "kind": "dialogue",
+    "source": "Mother: If it is from my brother, it is a family matter. Do not hide family matters from me.",
+    "adapted": "Surjit Kaur: Je mere veer di chiTThi ae te eh ghar di gal ae. Ghar di gal merethon lukai nahi jaandi.",
+    "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "location",
+    "source": "Kitchen",
+    "adapted": "Rasoi",
+    "reason": "Exact Majha place identity rather than a generic Indian house."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "action",
+    "source": "Steam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans against the counter, trying to keep the mood light.",
+    "adapted": "Steam from a aluminium kettle. Three steel glasses wait on the table. The rasoi is the true centre of the house. Harpreet (27) has arrived early, as he always does when Jaswant is in trouble. He leans against the counter, trying to keep the mood light.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "action",
+    "source": "Silence. Adam's hand stays on the pocket that holds the letter. The kettle clicks off.",
+    "adapted": "Silence. Jaswant's hand stays on the pocket that holds the letter. The aluminium kettle clicks off.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "action",
+    "source": "Adam sits. He does not take the letter out. Sister places a cup in front of him, then one in front of Mother. Friend looks at the floor, suddenly not funny.",
+    "adapted": "Jaswant sits. He does not take the letter out. Simran places a cup in front of him, then one in front of Bebe. Harpreet looks at the floor, suddenly not funny.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "action",
+    "source": "Adam stands, still carrying the letter, and leaves through the back door. Sister starts to speak, then stops.",
+    "adapted": "Jaswant stands, still carrying the letter, and leaves through the back door. Simran starts to speak, then stops.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Friend: You look like a man who lost a bet and then lost the walk home.",
+    "adapted": "Harpreet Singh: Aidaan lagda ae jaan shart haar ke rasta vi haar aaya hovein, yaar.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Adam: My uncle wrote. He wants me to take the shop. Mother still thinks I am studying.",
+    "adapted": "Jaswant Singh: Mama Jagtar ne likheya ae. Ohnu shop chahidi ae mere kolon. Bebe hun vi samajhdi ae main padhda peaa haan.",
+    "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Sister: You told her you had one year left.",
+    "adapted": "Simran Kaur: Tainu ohnau dassiya si ikk saal baaki ae.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Mother: I can hear you. I am not a guest in my own kitchen.",
+    "adapted": "Surjit Kaur: Main sunn rahi haan. Apni rasoi vich main koi parai nahi.",
+    "reason": "Rasoi is the authority space; Bebe refuses guest status."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Mother: Sit. Drink. Then tell me the truth, not the version you prepared for strangers.",
+    "adapted": "Surjit Kaur: Beh ja. Chai pee le. Phir sach dass, oh gal nahi jo tu bazaar vaaste tyaar karke rakhi ae.",
+    "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Adam: After work. I will tell you after work.",
+    "adapted": "Jaswant Singh: Kam ton baad, Bebe. Main dasanga kam ton baad.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC02",
+    "kind": "dialogue",
+    "source": "Mother: After work is how lies grow old.",
+    "adapted": "Surjit Kaur: Kam ton baad di gal naal jhooth buddha ho janda ae.",
+    "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "location",
+    "source": "Market Street",
+    "adapted": "Pind da chowk / mandi road",
+    "reason": "Exact Majha place identity rather than a generic Indian house."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "action",
+    "source": "A busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+    "adapted": "A busy street of small shops, buses, and heat. Jaswant walks with Harpreet. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "action",
+    "source": "They stop near a tea stall. Adam almost opens the envelope, then puts it away again.",
+    "adapted": "They stop near a kulche-chole di reri. Jaswant almost opens the envelope, then puts it away again.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "action",
+    "source": "He keeps the letter. They part. The market continues without noticing.",
+    "adapted": "He keeps the letter. They part. The pind da chowk continues without noticing.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "dialogue",
+    "source": "Friend: If you take the shop, you stay. If you stay, you become the man she already introduced to the neighbours.",
+    "adapted": "Harpreet Singh: Je shop le li, tu pind vich rehna. Te je rehana, oh bande banjna jehda Bebe ne paise nu pehlan hi dass chhaddiya ae.",
+    "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "dialogue",
+    "source": "Adam: If I refuse, she will think I am ashamed of her brother's work.",
+    "adapted": "Jaswant Singh: Je na kar ditta, Bebe kahegi main Mama de kam ton sharmaunda haan.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "dialogue",
+    "source": "Friend: Then do not refuse in the street. Go home and let her see your face when you say it.",
+    "adapted": "Harpreet Singh: Phir gall gali vich na kar. Ghar ja, Bebe tere moonh te vece je tu gall karein.",
+    "reason": "Public refusal would travel through the pind; Friend sends him home."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "dialogue",
+    "source": "Friend: Your sister already knows. Your mother almost knows. The only person still pretending is you.",
+    "adapted": "Harpreet Singh: Simran jaandi ae. Bebe lagbhag jaandi ae. Naatak sirf tu karan peaa ae.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC03",
+    "kind": "dialogue",
+    "source": "Adam: I will go home before evening. I will not bring a stranger's courage with me.",
+    "adapted": "Jaswant Singh: Shaam ton pehlan ghar jaanga. Kise paraye di himmat chukk ke nahi avanga.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "location",
+    "source": "Living Room",
+    "adapted": "Baithak",
+    "reason": "Exact Majha place identity rather than a generic Indian house."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "action",
+    "source": "The house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.",
+    "adapted": "The house is quieter. A single lamp. Bebe sits in the Bebe di kursi. Simran stands near the window. Jaswant enters, dusty from the street, the same khaddar jacket, the same letter.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "action",
+    "source": "He takes the envelope out and places it on the low table between them. He does not sit until Mother nods.",
+    "adapted": "He takes the envelope out and places it on the chhoti mez between them. He does not sit until Bebe nods. He waits for Bebe's nod before taking a seat \u2014 baithak etiquette.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "action",
+    "source": "Mother picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.",
+    "adapted": "Bebe picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "action",
+    "source": "Sister sits. Adam sits. The letter stays on the table, no longer hidden, not yet finished.",
+    "adapted": "Simran sits. Jaswant sits. The letter stays on the table, no longer hidden, not yet finished.",
+    "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "dialogue",
+    "source": "Adam: Uncle asked me to leave the course and take the shop. I hid the letter because I was afraid of disappointing you.",
+    "adapted": "Jaswant Singh: Mama ne course chhadd ke kiryana sambhalan nu keha ae. ChiTThi is vaaste lukai kyunki mainu darr si tuhanu niiraan na kar deaan.",
+    "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "dialogue",
+    "source": "Mother: I can survive disappointment. I cannot survive being the last to know.",
+    "adapted": "Surjit Kaur: Niiraan te main seh laini aan, puttar. Par ghar vich aakhri jaanan vaali nahi ban sakdi.",
+    "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "dialogue",
+    "source": "Sister: We would have sat with you. That is the whole point of this house.",
+    "adapted": "Simran Kaur: Assi tere naal behnde. Eh kothi da matlab hi eh ae.",
+    "reason": "Majhi rhythm, kinship, and household space \u2014 not word-for-word English."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "dialogue",
+    "source": "Adam: I am sorry. I am still not sure I want the shop. I am sure I should have said so.",
+    "adapted": "Jaswant Singh: Maaf kar de, Bebe. Shop baare hun vi pakka nahi. Pakka eh ae ke pehlan dassna chahida si.",
+    "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+  },
+  {
+    "scene_id": "SC04",
+    "kind": "dialogue",
+    "source": "Mother: Then we will read it together. After that, you will tell me what you want, not what you think I can bear.",
+    "adapted": "Surjit Kaur: Phir assaN ikkThhe paRhange. Us ton baad tu oh dass jehda tainu chahida ae, oh nahi jehda tainu lagda ae main seh sakdi haan.",
+    "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+  }
+]

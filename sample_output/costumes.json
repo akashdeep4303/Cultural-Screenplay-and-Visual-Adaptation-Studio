@@ -1,0 +1,110 @@
+[
+  {
+    "costume_id": "COST_MOTHER_01",
+    "character_id": "CHAR_MOTHER",
+    "label": "Mother \u2014 day look",
+    "garments": "Cotton salwar kameez in maroon, contrasting phulkari-border dupatta covering the head indoors and out",
+    "fabrics": "Cotton / khaddar unless urban setting selected",
+    "colours": [
+      "maroon",
+      "gold",
+      "cream"
+    ],
+    "footwear": "Flat Punjabi juttis",
+    "jewellery": "Gold hoops, thin gold chain, white chooda-style bangles kept simple",
+    "headwear": "Grey-streaked hair in a bun, sindoor not emphasised",
+    "grooming": "Grey-streaked hair in a bun, sindoor not emphasised",
+    "scenes": [
+      "SC01",
+      "SC02",
+      "SC04"
+    ],
+    "change_reason": "No story reason to change; reused for continuity.",
+    "approved": true
+  },
+  {
+    "costume_id": "COST_ADAM_01",
+    "character_id": "CHAR_ADAM",
+    "label": "Adam \u2014 day look",
+    "garments": "White khaddar kurta, navy pajama, faded cotton jacket, leather juttis",
+    "fabrics": "Cotton / khaddar unless urban setting selected",
+    "colours": [
+      "off-white",
+      "navy",
+      "dust tan"
+    ],
+    "footwear": "Brown juttis",
+    "jewellery": "Kara on the right wrist",
+    "headwear": "Unshorn hair tied under a navy parna, light stubble",
+    "grooming": "Unshorn hair tied under a navy parna, light stubble",
+    "scenes": [
+      "SC01",
+      "SC02",
+      "SC03",
+      "SC04"
+    ],
+    "change_reason": "No story reason to change; reused for continuity.",
+    "approved": true
+  },
+  {
+    "costume_id": "COST_UNCLE_01",
+    "character_id": "CHAR_UNCLE",
+    "label": "Uncle \u2014 day look",
+    "garments": "Source-neutral clothing pending cultural plan",
+    "fabrics": "Cotton / khaddar unless urban setting selected",
+    "colours": [],
+    "footwear": "",
+    "jewellery": "",
+    "headwear": "",
+    "grooming": "",
+    "scenes": [
+      "SC01"
+    ],
+    "change_reason": "No story reason to change; reused for continuity.",
+    "approved": true
+  },
+  {
+    "costume_id": "COST_SISTER_01",
+    "character_id": "CHAR_SISTER",
+    "label": "Sister \u2014 day look",
+    "garments": "Mint kameez, white salwar, lightweight printed dupatta, no heavy makeup",
+    "fabrics": "Cotton / khaddar unless urban setting selected",
+    "colours": [
+      "mint",
+      "white",
+      "soft pink"
+    ],
+    "footwear": "Simple sandals",
+    "jewellery": "Small studs and a thin black thread bracelet",
+    "headwear": "Long braid, neat middle parting",
+    "grooming": "Long braid, neat middle parting",
+    "scenes": [
+      "SC01",
+      "SC02",
+      "SC04"
+    ],
+    "change_reason": "No story reason to change; reused for continuity.",
+    "approved": true
+  },
+  {
+    "costume_id": "COST_FRIEND_01",
+    "character_id": "CHAR_FRIEND",
+    "label": "Friend \u2014 day look",
+    "garments": "Checked shirt over a vest, cargo-style pajama, cloth cap rather than a full turban",
+    "fabrics": "Cotton / khaddar unless urban setting selected",
+    "colours": [
+      "olive check",
+      "khaki"
+    ],
+    "footwear": "Dusty sneakers",
+    "jewellery": "Kara",
+    "headwear": "Trim beard, practical village-driver look",
+    "grooming": "Trim beard, practical village-driver look",
+    "scenes": [
+      "SC02",
+      "SC03"
+    ],
+    "change_reason": "No story reason to change; reused for continuity.",
+    "approved": true
+  }
+]

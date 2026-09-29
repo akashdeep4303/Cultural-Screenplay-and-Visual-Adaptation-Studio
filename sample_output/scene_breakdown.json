@@ -1,0 +1,280 @@
+[
+  {
+    "scene_id": "SC01",
+    "scene_number": 1,
+    "int_ext": "EXT",
+    "location": "House Front Yard",
+    "location_id": "LOC_HOUSE_FRONT_YARD",
+    "sub_location": "",
+    "time": "Early Morning",
+    "day_or_date": "Day 1",
+    "weather": "dew, pale light",
+    "mood": "uneasy dawn",
+    "summary": "A modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.",
+    "dramatic_purpose": "Establish concealment of the letter and household pressure",
+    "characters": [
+      "CHAR_MOTHER",
+      "CHAR_ADAM",
+      "CHAR_UNCLE",
+      "CHAR_SISTER"
+    ],
+    "costume_ids": [
+      "COST_MOTHER_01",
+      "COST_ADAM_01",
+      "COST_UNCLE_01",
+      "COST_SISTER_01"
+    ],
+    "props_in": [],
+    "props_out": [],
+    "props_present": [
+      "PROP_LETTER",
+      "PROP_JACKET",
+      "PROP_PHONE"
+    ],
+    "emotional_change": "CHAR_ADAM: avoidance; CHAR_MOTHER: worry",
+    "continuity_warnings": [],
+    "source_heading": "EXT. HOUSE FRONT YARD - EARLY MORNING",
+    "action_lines": [
+      "A modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.",
+      "MOTHER (55) watches from the doorway, a shawl around her shoulders. SISTER (22) sits on the low wall, pretending to check her phone.",
+      "He turns the envelope over. The handwriting is his uncle's.",
+      "Adam does not answer. He puts the letter back in his jacket pocket and walks toward the kitchen door. Mother's worry stays on her face. Sister follows him with her eyes, then looks down."
+    ],
+    "dialogue": [
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "You came back late. You always do this when something is wrong."
+      },
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "Nothing is wrong. I just needed air."
+      },
+      {
+        "speaker": "CHAR_SISTER",
+        "source_name": "Sister",
+        "text": "That letter has been in your pocket for two days. Either open it or give it to her."
+      },
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "If it is from my brother, it is a family matter. Do not hide family matters from me."
+      }
+    ]
+  },
+  {
+    "scene_id": "SC02",
+    "scene_number": 2,
+    "int_ext": "INT",
+    "location": "Kitchen",
+    "location_id": "LOC_KITCHEN",
+    "sub_location": "",
+    "time": "Morning",
+    "day_or_date": "Day 1",
+    "weather": "indoor, still air",
+    "mood": "tight domestic confrontation",
+    "summary": "Steam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans a",
+    "dramatic_purpose": "Force the lie into the kitchen, the moral centre of the house",
+    "characters": [
+      "CHAR_FRIEND",
+      "CHAR_ADAM",
+      "CHAR_SISTER",
+      "CHAR_MOTHER"
+    ],
+    "costume_ids": [
+      "COST_FRIEND_01",
+      "COST_ADAM_01",
+      "COST_SISTER_01",
+      "COST_MOTHER_01"
+    ],
+    "props_in": [],
+    "props_out": [],
+    "props_present": [
+      "PROP_LETTER",
+      "PROP_JACKET",
+      "PROP_KETTLE",
+      "PROP_CUPS"
+    ],
+    "emotional_change": "CHAR_ADAM: cornered; CHAR_MOTHER: insists_on_truth",
+    "continuity_warnings": [],
+    "source_heading": "INT. KITCHEN - MORNING",
+    "action_lines": [
+      "Steam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans against the counter, trying to keep the mood light.",
+      "Silence. Adam's hand stays on the pocket that holds the letter. The kettle clicks off.",
+      "Adam sits. He does not take the letter out. Sister places a cup in front of him, then one in front of Mother. Friend looks at the floor, suddenly not funny.",
+      "Adam stands, still carrying the letter, and leaves through the back door. Sister starts to speak, then stops."
+    ],
+    "dialogue": [
+      {
+        "speaker": "CHAR_FRIEND",
+        "source_name": "Friend",
+        "text": "You look like a man who lost a bet and then lost the walk home."
+      },
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "My uncle wrote. He wants me to take the shop. Mother still thinks I am studying."
+      },
+      {
+        "speaker": "CHAR_SISTER",
+        "source_name": "Sister",
+        "text": "You told her you had one year left."
+      },
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "I can hear you. I am not a guest in my own kitchen."
+      },
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "Sit. Drink. Then tell me the truth, not the version you prepared for strangers."
+      },
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "After work. I will tell you after work."
+      },
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "After work is how lies grow old."
+      }
+    ]
+  },
+  {
+    "scene_id": "SC03",
+    "scene_number": 3,
+    "int_ext": "EXT",
+    "location": "Market Street",
+    "location_id": "LOC_MARKET_STREET",
+    "sub_location": "",
+    "time": "Afternoon",
+    "day_or_date": "Day 1",
+    "weather": "hot, dusty",
+    "mood": "heat and avoidance",
+    "summary": "A busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+    "dramatic_purpose": "Test the decision in public space without allowing a public refusal",
+    "characters": [
+      "CHAR_FRIEND",
+      "CHAR_ADAM"
+    ],
+    "costume_ids": [
+      "COST_FRIEND_01",
+      "COST_ADAM_01"
+    ],
+    "props_in": [],
+    "props_out": [],
+    "props_present": [
+      "PROP_LETTER",
+      "PROP_JACKET"
+    ],
+    "emotional_change": "CHAR_ADAM: public_pressure; CHAR_FRIEND: pushes_him_home",
+    "continuity_warnings": [],
+    "source_heading": "EXT. MARKET STREET - AFTERNOON",
+    "action_lines": [
+      "A busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+      "They stop near a tea stall. Adam almost opens the envelope, then puts it away again.",
+      "He keeps the letter. They part. The market continues without noticing."
+    ],
+    "dialogue": [
+      {
+        "speaker": "CHAR_FRIEND",
+        "source_name": "Friend",
+        "text": "If you take the shop, you stay. If you stay, you become the man she already introduced to the neighbours."
+      },
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "If I refuse, she will think I am ashamed of her brother's work."
+      },
+      {
+        "speaker": "CHAR_FRIEND",
+        "source_name": "Friend",
+        "text": "Then do not refuse in the street. Go home and let her see your face when you say it."
+      },
+      {
+        "speaker": "CHAR_FRIEND",
+        "source_name": "Friend",
+        "text": "Your sister already knows. Your mother almost knows. The only person still pretending is you."
+      },
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "I will go home before evening. I will not bring a stranger's courage with me."
+      }
+    ]
+  },
+  {
+    "scene_id": "SC04",
+    "scene_number": 4,
+    "int_ext": "INT",
+    "location": "Living Room",
+    "location_id": "LOC_LIVING_ROOM",
+    "sub_location": "",
+    "time": "Evening",
+    "day_or_date": "Day 1 evening",
+    "weather": "indoor, still air",
+    "mood": "quiet reckoning",
+    "summary": "The house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.",
+    "dramatic_purpose": "Return the letter to the family table and restore truth-telling",
+    "characters": [
+      "CHAR_ADAM",
+      "CHAR_MOTHER",
+      "CHAR_SISTER"
+    ],
+    "costume_ids": [
+      "COST_ADAM_01",
+      "COST_MOTHER_01",
+      "COST_SISTER_01"
+    ],
+    "props_in": [
+      "PROP_LETTER"
+    ],
+    "props_out": [
+      "PROP_LETTER"
+    ],
+    "props_present": [
+      "PROP_LETTER",
+      "PROP_JACKET",
+      "PROP_LAMP"
+    ],
+    "emotional_change": "CHAR_ADAM: admission; CHAR_MOTHER: dignity_restored; CHAR_SISTER: solidarity",
+    "continuity_warnings": [],
+    "source_heading": "INT. LIVING ROOM - EVENING",
+    "action_lines": [
+      "The house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.",
+      "He takes the envelope out and places it on the low table between them. He does not sit until Mother nods.",
+      "Mother picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.",
+      "Sister sits. Adam sits. The letter stays on the table, no longer hidden, not yet finished."
+    ],
+    "dialogue": [
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "Uncle asked me to leave the course and take the shop. I hid the letter because I was afraid of disappointing you."
+      },
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "I can survive disappointment. I cannot survive being the last to know."
+      },
+      {
+        "speaker": "CHAR_SISTER",
+        "source_name": "Sister",
+        "text": "We would have sat with you. That is the whole point of this house."
+      },
+      {
+        "speaker": "CHAR_ADAM",
+        "source_name": "Adam",
+        "text": "I am sorry. I am still not sure I want the shop. I am sure I should have said so."
+      },
+      {
+        "speaker": "CHAR_MOTHER",
+        "source_name": "Mother",
+        "text": "Then we will read it together. After that, you will tell me what you want, not what you think I can bear."
+      }
+    ]
+  }
+]

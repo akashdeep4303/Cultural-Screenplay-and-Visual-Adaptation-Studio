@@ -1,0 +1,162 @@
+{
+  "id": "majhi",
+  "label": "Majhi Punjabi",
+  "dialect": "Majhi",
+  "language": "Punjabi",
+  "region": "Majha — Amritsar / Tarn Taran belt, Punjab",
+  "setting_default": "rural",
+  "scripts": ["roman", "gurmukhi"],
+  "uncertainty": [
+    "Exact neighbourhood slang varies between Amritsar city and village Majha; rural register is used unless the user selects urban.",
+    "Kinship tone after conflict is contested in some families; Bebe remains the default maternal address."
+  ],
+  "names": {
+    "ADAM": {
+      "adapted_name": "Jaswant Singh",
+      "aliases": ["Jassi", "Jaswant"],
+      "work": "college student expected to inherit the family kiryana shop",
+      "family_role": "puttar / elder son",
+      "honorific_received": "puttar",
+      "age": 28
+    },
+    "MOTHER": {
+      "adapted_name": "Surjit Kaur",
+      "aliases": ["Bebe", "Bebe Surjit"],
+      "work": "runs the household and keeps the shop accounts in a register",
+      "family_role": "bebe / mother and moral centre",
+      "honorific_received": "Bebe",
+      "age": 55
+    },
+    "SISTER": {
+      "adapted_name": "Simran Kaur",
+      "aliases": ["Simran", "Kudi"],
+      "work": "helps Bebe; applying for a teaching post in the nearby school",
+      "family_role": "younger sister",
+      "honorific_received": "Simran",
+      "age": 22
+    },
+    "FRIEND": {
+      "adapted_name": "Harpreet Singh",
+      "aliases": ["Happy", "Harpreet"],
+      "work": "drives a small tempo; Adam's childhood yaar from the same pind",
+      "family_role": "yaar / non-kin confidant",
+      "honorific_received": "yaar",
+      "age": 27
+    },
+    "UNCLE": {
+      "adapted_name": "Mama Jagtar Singh",
+      "aliases": ["Mama", "Jagtar"],
+      "work": "owns the village kiryana shop on the main chowk",
+      "family_role": "mama / mother's brother",
+      "honorific_received": "Mama ji",
+      "age": 52
+    }
+  },
+  "locations": {
+    "HOUSE FRONT YARD": {
+      "adapted": "Kothi da aangan",
+      "architecture": "Brick kothi with a small aangan, iron gate that never latches, peepal shade at the wall, charpai against the verandah",
+      "urban_variant": "Narrow front courtyard of a lane house near Hall Bazaar, Amritsar"
+    },
+    "KITCHEN": {
+      "adapted": "Rasoi",
+      "architecture": "Smoke-darkened rasoi with a gas stove, steel glasses, aluminium kettle, and a wooden almirah of masala tins",
+      "urban_variant": "Compact tiled kitchen in a two-room city house"
+    },
+    "MARKET STREET": {
+      "adapted": "Pind da chowk / mandi road",
+      "architecture": "Open mandi road with kiryana, cycle-repair, and a reri of kulche-chole; buses throw dust",
+      "urban_variant": "Katra street near Hall Bazaar with denser shopfronts"
+    },
+    "LIVING ROOM": {
+      "adapted": "Baithak",
+      "architecture": "Baithak with one sofa, floor dari, framed family photograph, and a low table for the letter",
+      "urban_variant": "Front room with a TV cabinet and the same low table"
+    }
+  },
+  "props": {
+    "letter": "unopened envelope from Mama Jagtar, written in blue ballpoint",
+    "jacket": "cotton khaddar jacket over kurta",
+    "kettle": "aluminium kettle",
+    "cups": "steel glasses",
+    "phone": "inexpensive smartphone",
+    "lamp": "single tube light plus a table lamp in the baithak"
+  },
+  "costumes": {
+    "ADAM": {
+      "garments": "White khaddar kurta, navy pajama, faded cotton jacket, leather juttis",
+      "colours": ["off-white", "navy", "dust tan"],
+      "jewellery": "Kara on the right wrist",
+      "grooming": "Unshorn hair tied under a navy parna, light stubble",
+      "footwear": "Brown juttis"
+    },
+    "MOTHER": {
+      "garments": "Cotton salwar kameez in maroon, contrasting phulkari-border dupatta covering the head indoors and out",
+      "colours": ["maroon", "gold", "cream"],
+      "jewellery": "Gold hoops, thin gold chain, white chooda-style bangles kept simple",
+      "grooming": "Grey-streaked hair in a bun, sindoor not emphasised",
+      "footwear": "Flat Punjabi juttis"
+    },
+    "SISTER": {
+      "garments": "Mint kameez, white salwar, lightweight printed dupatta, no heavy makeup",
+      "colours": ["mint", "white", "soft pink"],
+      "jewellery": "Small studs and a thin black thread bracelet",
+      "grooming": "Long braid, neat middle parting",
+      "footwear": "Simple sandals"
+    },
+    "FRIEND": {
+      "garments": "Checked shirt over a vest, cargo-style pajama, cloth cap rather than a full turban",
+      "colours": ["olive check", "khaki"],
+      "jewellery": "Kara",
+      "grooming": "Trim beard, practical village-driver look",
+      "footwear": "Dusty sneakers"
+    }
+  },
+  "food_sound": {
+    "food": ["paratha and achar in the rasoi", "kulche-chole on the mandi road", "chai in steel glasses"],
+    "sound": ["kite of a pressure horn", "bicycle bell", "sparrows in the peepal", "kettle click", "distant Gurbani from a nearby gurdwara at morning"]
+  },
+  "gestures": {
+    "greeting": "Palms together or a light sat sri akaal; younger people lower their eyes first with Bebe",
+    "respect": "Do not sit in Bebe's chair until she nods; cover the head in the baithak when the matter is serious",
+    "conflict": "Voices rise, then drop; public refusal is avoided; truth is expected inside the rasoi and baithak",
+    "touch": "Sister may catch a sleeve; Friend does not touch Bebe; Mother may hold the letter rather than the son"
+  },
+  "humour": "Dry teasing (yaar, lost a bet) rather than slapstick; never use dialect as the joke",
+  "kinship_rules": [
+    "Children address mother as Bebe, not Mum or Mummy, unless urban code-switch is approved.",
+    "Mother's brother is Mama, never Uncle in adapted dialogue.",
+    "Friend is yaar, not a kinship term."
+  ],
+  "story_world": {
+    "stakes": "Leaving college for the kiryana shop is not only a job choice; it is izzat in the pind and the mother's brother's trust.",
+    "community": "Neighbours already speak as if Jaswant will take the shop. Public refusal would travel faster than the letter.",
+    "resolution": "Reading the letter together restores the household as the place where decisions are made, without forcing him to accept the shop."
+  },
+  "palette": {
+    "earth": "#c4a574",
+    "brick": "#a45a3c",
+    "maroon": "#7a1f2b",
+    "mint": "#7dba9a",
+    "navy": "#1e3354",
+    "gold": "#d4a017",
+    "dust": "#e8d5b5",
+    "peepal": "#3d5c3a",
+    "sky_morning": "#f2c9a0",
+    "sky_afternoon": "#f4e0a8",
+    "sky_evening": "#c47a4a"
+  },
+  "glossary_en_to_roman": {
+    "you came back late": "Tu late aa gya, puttar",
+    "nothing is wrong": "Kujh gal nahi, Bebe",
+    "I just needed air": "Saah lain nu bahar aaya si",
+    "that letter": "oh chiTThi",
+    "family matter": "ghar di gal",
+    "sit": "beh ja",
+    "drink": "chai pee le",
+    "tell me the truth": "sach dass de",
+    "after work": "kam ton baad",
+    "I am sorry": "maaf kar de, Bebe",
+    "we will read it together": "assaN ikkThhe paRhange"
+  }
+}

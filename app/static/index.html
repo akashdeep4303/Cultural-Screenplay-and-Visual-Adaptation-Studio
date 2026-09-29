@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cultural Screenplay Adaptation Studio</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Cultural Screenplay &amp; Visual Adaptation Studio</h1>
+    <p>Extract a short screenplay into canonical production records, adapt it into an exact dialect, then generate a continuity-safe visual pack. Visuals stay locked until you approve extraction, culture plan, and costumes.</p>
+  </header>
+  <div class="choice">Selected culture must stay exact — Majhi is not “Punjabi culture”.</div>
+  <nav class="steps" id="steps"></nav>
+  <main>
+    <section id="view-upload">
+      <div class="grid">
+        <div>
+          <h2>1. Upload</h2>
+          <textarea id="script" placeholder="Paste fountain-style screenplay"></textarea>
+          <p class="muted">TXT upload also accepted. PDF/DOCX can be pasted as text for this MVP.</p>
+          <input type="file" id="file" accept=".txt,.md" />
+        </div>
+        <div>
+          <h2>2. Exact culture</h2>
+          <label>Culture / dialect</label>
+          <select id="culture"></select>
+          <label>Setting</label>
+          <select id="setting">
+            <option value="rural">Rural</option>
+            <option value="urban">Urban</option>
+          </select>
+          <label>Output script</label>
+          <select id="scriptChoice">
+            <option value="roman">Roman Punjabi</option>
+            <option value="gurmukhi">Gurmukhi-marked</option>
+          </select>
+          <p class="muted" id="regionHint"></p>
+          <button class="ghost" id="loadSample">Load sample screenplay</button>
+          <button class="primary" id="extract">Extract scenes</button>
+        </div>
+      </div>
+    </section>
+
+    <section id="view-extract" class="hidden">
+      <h2>3. Scene extraction</h2>
+      <p class="muted" id="extractProblems"></p>
+      <div class="card">
+        <table id="sceneTable"></table>
+      </div>
+      <h3>Characters</h3>
+      <table id="charTable"></table>
+      <h3>Locations &amp; props</h3>
+      <table id="prodTable"></table>
+      <h3>Continuity state</h3>
+      <div class="card" id="extractCont"></div>
+      <p>
+        Merge alias
+        <input id="keep" placeholder="Adam" style="width:140px" />
+        keeps
+        <input id="drop" placeholder="Elder Son" style="width:160px" />
+        <button class="ghost" id="merge">Merge</button>
+      </p>
+      <p class="muted">Live demo helpers — use these during the explanation, then undo by re-extracting.</p>
+      <button class="ghost" id="demoDup">Show duplicate: Elder Son</button>
+      <button class="ghost" id="demoBreak">Detect contradiction: letter vanishes in SC04</button>
+      <button class="primary" id="approveExtract">Approve extraction</button>
+    </section>
+
+    <section id="view-plan" class="hidden">
+      <h2>4. Character, costume &amp; cultural plan</h2>
+      <div class="card" id="planBox"></div>
+      <h3>Costumes (one variant each)</h3>
+      <table id="costumeTable"></table>
+      <button class="primary" id="approvePlan">Approve plan and costumes</button>
+      <button class="ghost" id="adapt">Rewrite screenplay</button>
+    </section>
+
+    <section id="view-compare" class="hidden">
+      <h2>5. Adapted screenplay comparison</h2>
+      <div class="compare">
+        <div><h3>Source</h3><pre id="srcPre"></pre></div>
+        <div><h3>Adapted</h3><pre id="adPre"></pre></div>
+      </div>
+      <h3>Important changes</h3>
+      <table id="changeTable"></table>
+      <button class="primary" id="goVisuals">Generate visuals</button>
+    </section>
+
+    <section id="view-visuals" class="hidden">
+      <h2>6. Visual gallery</h2>
+      <p class="muted">Generated only after approval. Same canonical IDs are reused; retry regenerates one asset.</p>
+      <button class="primary" id="generate">Generate visual pack</button>
+      <p class="muted">Retry regenerates one failed plate without re-extracting the project.</p>
+      <p id="genStatus"></p>
+      <h3>Characters</h3>
+      <div class="gallery" id="galChars"></div>
+      <h3>Costumes</h3>
+      <div class="gallery" id="galCost"></div>
+      <h3>Scene keyframes</h3>
+      <div class="gallery scenes" id="galScenes"></div>
+      <h3>Correct and regenerate only what changed</h3>
+      <p class="muted">Patch a canonical record, then redraw linked character / costume / scene plates. Other assets stay as they are.</p>
+      <p>
+        <select id="fixKind">
+          <option value="costume">Costume</option>
+          <option value="character">Character</option>
+          <option value="plan">Cultural plan</option>
+        </select>
+        <input id="fixId" placeholder="COST_ADAM_01 or CHAR_ADAM or D03" style="width:180px" />
+        <input id="fixField" placeholder="garments or adapted_name or adapted" style="width:200px" />
+        <input id="fixValue" placeholder="White khaddar kurta, navy pajama, mustard parna…" />
+        <button class="ghost" id="fixApply">Apply + regenerate affected</button>
+      </p>
+      <p id="fixStatus" class="muted"></p>
+    </section>
+
+    <section id="view-export" class="hidden">
+      <h2>7. Continuity &amp; export</h2>
+      <div class="card" id="contBox"></div>
+      <p>
+        <a id="dlScript" href="#">adapted_screenplay.pdf</a> ·
+        <a id="dlCont" href="#">continuity_report.pdf</a> ·
+        <a id="dlScenes" href="#">scene_breakdown.json</a>
+      </p>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1324 @@
+{
+  "project_id": "6c54ea3d",
+  "source_filename": "sample_screenplay.txt",
+  "source_text": "THE UNOPENED LETTER\nA short family drama in four scenes.\n\nWritten for cultural adaptation (source is culturally neutral).\n\n\nSCENE 1\nEXT. HOUSE FRONT YARD - EARLY MORNING\n\nA modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.\n\nMOTHER (55) watches from the doorway, a shawl around her shoulders. SISTER (22) sits on the low wall, pretending to check her phone.\n\n                    MOTHER\n          You came back late. You always do this\n          when something is wrong.\n\n                    ADAM\n          Nothing is wrong. I just needed air.\n\nHe turns the envelope over. The handwriting is his uncle's.\n\n                    SISTER\n          That letter has been in your pocket for\n          two days. Either open it or give it to her.\n\n                    MOTHER\n          If it is from my brother, it is a family\n          matter. Do not hide family matters from me.\n\nAdam does not answer. He puts the letter back in his jacket pocket and walks toward the kitchen door. Mother's worry stays on her face. Sister follows him with her eyes, then looks down.\n\n\nSCENE 2\nINT. KITCHEN - MORNING\n\nSteam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans against the counter, trying to keep the mood light.\n\n                    FRIEND\n          You look like a man who lost a bet and\n          then lost the walk home.\n\n                    ADAM\n          My uncle wrote. He wants me to take the\n          shop. Mother still thinks I am studying.\n\n                    SISTER\n          You told her you had one year left.\n\n                    MOTHER\n          I can hear you. I am not a guest in my\n          own kitchen.\n\nSilence. Adam's hand stays on the pocket that holds the letter. The kettle clicks off.\n\n                    MOTHER\n          Sit. Drink. Then tell me the truth, not\n          the version you prepared for strangers.\n\nAdam sits. He does not take the letter out. Sister places a cup in front of him, then one in front of Mother. Friend looks at the floor, suddenly not funny.\n\n                    ADAM\n          After work. I will tell you after work.\n\n                    MOTHER\n          After work is how lies grow old.\n\nAdam stands, still carrying the letter, and leaves through the back door. Sister starts to speak, then stops.\n\n\nSCENE 3\nEXT. MARKET STREET - AFTERNOON\n\nA busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.\n\n                    FRIEND\n          If you take the shop, you stay. If you\n          stay, you become the man she already\n          introduced to the neighbours.\n\n                    ADAM\n          If I refuse, she will think I am ashamed\n          of her brother's work.\n\n                    FRIEND\n          Then do not refuse in the street. Go home\n          and let her see your face when you say it.\n\nThey stop near a tea stall. Adam almost opens the envelope, then puts it away again.\n\n                    FRIEND\n          Your sister already knows. Your mother\n          almost knows. The only person still\n          pretending is you.\n\n                    ADAM\n          I will go home before evening. I will not\n          bring a stranger's courage with me.\n\nHe keeps the letter. They part. The market continues without noticing.\n\n\nSCENE 4\nINT. LIVING ROOM - EVENING\n\nThe house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.\n\nHe takes the envelope out and places it on the low table between them. He does not sit until Mother nods.\n\n                    ADAM\n          Uncle asked me to leave the course and\n          take the shop. I hid the letter because\n          I was afraid of disappointing you.\n\n                    MOTHER\n          I can survive disappointment. I cannot\n          survive being the last to know.\n\n                    SISTER\n          We would have sat with you. That is the\n          whole point of this house.\n\n                    ADAM\n          I am sorry. I am still not sure I want\n          the shop. I am sure I should have said so.\n\nMother picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.\n\n                    MOTHER\n          Then we will read it together. After that,\n          you will tell me what you want, not what\n          you think I can bear.\n\nSister sits. Adam sits. The letter stays on the table, no longer hidden, not yet finished.\n\nEND.\n",
+  "culture": {
+    "culture_id": "majhi",
+    "dialect": "Majhi",
+    "region": "Majha — Amritsar / Tarn Taran belt, Punjab",
+    "setting": "rural",
+    "script": "roman"
+  },
+  "extraction_problems": [],
+  "scenes": [
+    {
+      "scene_id": "SC01",
+      "scene_number": 1,
+      "int_ext": "EXT",
+      "location": "House Front Yard",
+      "location_id": "LOC_HOUSE_FRONT_YARD",
+      "sub_location": "",
+      "time": "Early Morning",
+      "day_or_date": "Day 1",
+      "weather": "dew, pale light",
+      "mood": "uneasy dawn",
+      "summary": "A modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.",
+      "dramatic_purpose": "Establish concealment of the letter and household pressure",
+      "characters": [
+        "CHAR_MOTHER",
+        "CHAR_ADAM",
+        "CHAR_UNCLE",
+        "CHAR_SISTER"
+      ],
+      "costume_ids": [
+        "COST_MOTHER_01",
+        "COST_ADAM_01",
+        "COST_UNCLE_01",
+        "COST_SISTER_01"
+      ],
+      "props_in": [],
+      "props_out": [],
+      "props_present": [
+        "PROP_LETTER",
+        "PROP_JACKET",
+        "PROP_PHONE"
+      ],
+      "emotional_change": "CHAR_ADAM: avoidance; CHAR_MOTHER: worry",
+      "continuity_warnings": [],
+      "source_heading": "EXT. HOUSE FRONT YARD - EARLY MORNING",
+      "action_lines": [
+        "A modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.",
+        "MOTHER (55) watches from the doorway, a shawl around her shoulders. SISTER (22) sits on the low wall, pretending to check her phone.",
+        "He turns the envelope over. The handwriting is his uncle's.",
+        "Adam does not answer. He puts the letter back in his jacket pocket and walks toward the kitchen door. Mother's worry stays on her face. Sister follows him with her eyes, then looks down."
+      ],
+      "dialogue": [
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "You came back late. You always do this when something is wrong."
+        },
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "Nothing is wrong. I just needed air."
+        },
+        {
+          "speaker": "CHAR_SISTER",
+          "source_name": "Sister",
+          "text": "That letter has been in your pocket for two days. Either open it or give it to her."
+        },
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "If it is from my brother, it is a family matter. Do not hide family matters from me."
+        }
+      ]
+    },
+    {
+      "scene_id": "SC02",
+      "scene_number": 2,
+      "int_ext": "INT",
+      "location": "Kitchen",
+      "location_id": "LOC_KITCHEN",
+      "sub_location": "",
+      "time": "Morning",
+      "day_or_date": "Day 1",
+      "weather": "indoor, still air",
+      "mood": "tight domestic confrontation",
+      "summary": "Steam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans a",
+      "dramatic_purpose": "Force the lie into the kitchen, the moral centre of the house",
+      "characters": [
+        "CHAR_FRIEND",
+        "CHAR_ADAM",
+        "CHAR_SISTER",
+        "CHAR_MOTHER"
+      ],
+      "costume_ids": [
+        "COST_FRIEND_01",
+        "COST_ADAM_01",
+        "COST_SISTER_01",
+        "COST_MOTHER_01"
+      ],
+      "props_in": [],
+      "props_out": [],
+      "props_present": [
+        "PROP_LETTER",
+        "PROP_JACKET",
+        "PROP_KETTLE",
+        "PROP_CUPS"
+      ],
+      "emotional_change": "CHAR_ADAM: cornered; CHAR_MOTHER: insists_on_truth",
+      "continuity_warnings": [],
+      "source_heading": "INT. KITCHEN - MORNING",
+      "action_lines": [
+        "Steam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans against the counter, trying to keep the mood light.",
+        "Silence. Adam's hand stays on the pocket that holds the letter. The kettle clicks off.",
+        "Adam sits. He does not take the letter out. Sister places a cup in front of him, then one in front of Mother. Friend looks at the floor, suddenly not funny.",
+        "Adam stands, still carrying the letter, and leaves through the back door. Sister starts to speak, then stops."
+      ],
+      "dialogue": [
+        {
+          "speaker": "CHAR_FRIEND",
+          "source_name": "Friend",
+          "text": "You look like a man who lost a bet and then lost the walk home."
+        },
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "My uncle wrote. He wants me to take the shop. Mother still thinks I am studying."
+        },
+        {
+          "speaker": "CHAR_SISTER",
+          "source_name": "Sister",
+          "text": "You told her you had one year left."
+        },
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "I can hear you. I am not a guest in my own kitchen."
+        },
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "Sit. Drink. Then tell me the truth, not the version you prepared for strangers."
+        },
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "After work. I will tell you after work."
+        },
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "After work is how lies grow old."
+        }
+      ]
+    },
+    {
+      "scene_id": "SC03",
+      "scene_number": 3,
+      "int_ext": "EXT",
+      "location": "Market Street",
+      "location_id": "LOC_MARKET_STREET",
+      "sub_location": "",
+      "time": "Afternoon",
+      "day_or_date": "Day 1",
+      "weather": "hot, dusty",
+      "mood": "heat and avoidance",
+      "summary": "A busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+      "dramatic_purpose": "Test the decision in public space without allowing a public refusal",
+      "characters": [
+        "CHAR_FRIEND",
+        "CHAR_ADAM"
+      ],
+      "costume_ids": [
+        "COST_FRIEND_01",
+        "COST_ADAM_01"
+      ],
+      "props_in": [],
+      "props_out": [],
+      "props_present": [
+        "PROP_LETTER",
+        "PROP_JACKET"
+      ],
+      "emotional_change": "CHAR_ADAM: public_pressure; CHAR_FRIEND: pushes_him_home",
+      "continuity_warnings": [],
+      "source_heading": "EXT. MARKET STREET - AFTERNOON",
+      "action_lines": [
+        "A busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+        "They stop near a tea stall. Adam almost opens the envelope, then puts it away again.",
+        "He keeps the letter. They part. The market continues without noticing."
+      ],
+      "dialogue": [
+        {
+          "speaker": "CHAR_FRIEND",
+          "source_name": "Friend",
+          "text": "If you take the shop, you stay. If you stay, you become the man she already introduced to the neighbours."
+        },
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "If I refuse, she will think I am ashamed of her brother's work."
+        },
+        {
+          "speaker": "CHAR_FRIEND",
+          "source_name": "Friend",
+          "text": "Then do not refuse in the street. Go home and let her see your face when you say it."
+        },
+        {
+          "speaker": "CHAR_FRIEND",
+          "source_name": "Friend",
+          "text": "Your sister already knows. Your mother almost knows. The only person still pretending is you."
+        },
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "I will go home before evening. I will not bring a stranger's courage with me."
+        }
+      ]
+    },
+    {
+      "scene_id": "SC04",
+      "scene_number": 4,
+      "int_ext": "INT",
+      "location": "Living Room",
+      "location_id": "LOC_LIVING_ROOM",
+      "sub_location": "",
+      "time": "Evening",
+      "day_or_date": "Day 1 evening",
+      "weather": "indoor, still air",
+      "mood": "quiet reckoning",
+      "summary": "The house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.",
+      "dramatic_purpose": "Return the letter to the family table and restore truth-telling",
+      "characters": [
+        "CHAR_ADAM",
+        "CHAR_MOTHER",
+        "CHAR_SISTER"
+      ],
+      "costume_ids": [
+        "COST_ADAM_01",
+        "COST_MOTHER_01",
+        "COST_SISTER_01"
+      ],
+      "props_in": [
+        "PROP_LETTER"
+      ],
+      "props_out": [
+        "PROP_LETTER"
+      ],
+      "props_present": [
+        "PROP_LETTER",
+        "PROP_JACKET",
+        "PROP_LAMP"
+      ],
+      "emotional_change": "CHAR_ADAM: admission; CHAR_MOTHER: dignity_restored; CHAR_SISTER: solidarity",
+      "continuity_warnings": [],
+      "source_heading": "INT. LIVING ROOM - EVENING",
+      "action_lines": [
+        "The house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.",
+        "He takes the envelope out and places it on the low table between them. He does not sit until Mother nods.",
+        "Mother picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.",
+        "Sister sits. Adam sits. The letter stays on the table, no longer hidden, not yet finished."
+      ],
+      "dialogue": [
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "Uncle asked me to leave the course and take the shop. I hid the letter because I was afraid of disappointing you."
+        },
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "I can survive disappointment. I cannot survive being the last to know."
+        },
+        {
+          "speaker": "CHAR_SISTER",
+          "source_name": "Sister",
+          "text": "We would have sat with you. That is the whole point of this house."
+        },
+        {
+          "speaker": "CHAR_ADAM",
+          "source_name": "Adam",
+          "text": "I am sorry. I am still not sure I want the shop. I am sure I should have said so."
+        },
+        {
+          "speaker": "CHAR_MOTHER",
+          "source_name": "Mother",
+          "text": "Then we will read it together. After that, you will tell me what you want, not what you think I can bear."
+        }
+      ]
+    }
+  ],
+  "characters": [
+    {
+      "character_id": "CHAR_MOTHER",
+      "source_name": "Mother",
+      "adapted_name": "Surjit Kaur",
+      "aliases": [
+        "Mother",
+        "Bebe",
+        "Bebe Surjit"
+      ],
+      "age": "55",
+      "role": "bebe / mother and moral centre",
+      "relationships": [
+        "mother of Adam and Sister",
+        "sister of Uncle"
+      ],
+      "personality": "Direct, dignity-first, unwilling to be last to know",
+      "dialect": "Majhi",
+      "emotional_state": "",
+      "entrance_scene": "SC01",
+      "exit_scene": "SC04",
+      "physical_description": "runs the household and keeps the shop accounts in a register; bebe / mother and moral centre",
+      "grooming": "Grey-streaked hair in a bun, sindoor not emphasised",
+      "approved": true
+    },
+    {
+      "character_id": "CHAR_ADAM",
+      "source_name": "Adam",
+      "adapted_name": "Jaswant Singh",
+      "aliases": [
+        "Adam",
+        "Jassi",
+        "Jaswant"
+      ],
+      "age": "28",
+      "role": "puttar / elder son",
+      "relationships": [
+        "son of Mother",
+        "elder brother of Sister",
+        "friend of Friend",
+        "nephew of Uncle"
+      ],
+      "personality": "Avoidant under family pressure; loyal; slow to speak",
+      "dialect": "Majhi",
+      "emotional_state": "",
+      "entrance_scene": "SC01",
+      "exit_scene": "SC04",
+      "physical_description": "college student expected to inherit the family kiryana shop; puttar / elder son",
+      "grooming": "Unshorn hair tied under a navy parna, light stubble",
+      "approved": true
+    },
+    {
+      "character_id": "CHAR_UNCLE",
+      "source_name": "Uncle",
+      "adapted_name": "Mama Jagtar Singh",
+      "aliases": [
+        "Uncle",
+        "Mama",
+        "Jagtar"
+      ],
+      "age": "52",
+      "role": "mama / mother's brother",
+      "relationships": [
+        "maternal uncle of Adam and Sister",
+        "brother of Mother"
+      ],
+      "personality": "Off-stage authority through the letter and the shop",
+      "dialect": "Majhi",
+      "emotional_state": "",
+      "entrance_scene": "SC01",
+      "exit_scene": "",
+      "physical_description": "owns the village kiryana shop on the main chowk; mama / mother's brother",
+      "grooming": "",
+      "approved": true
+    },
+    {
+      "character_id": "CHAR_SISTER",
+      "source_name": "Sister",
+      "adapted_name": "Simran Kaur",
+      "aliases": [
+        "Sister",
+        "Simran",
+        "Kudi"
+      ],
+      "age": "22",
+      "role": "younger sister",
+      "relationships": [
+        "daughter of Mother",
+        "younger sister of Adam"
+      ],
+      "personality": "Clear-eyed, protective, refuses theatrical secrecy",
+      "dialect": "Majhi",
+      "emotional_state": "",
+      "entrance_scene": "SC01",
+      "exit_scene": "SC04",
+      "physical_description": "helps Bebe; applying for a teaching post in the nearby school; younger sister",
+      "grooming": "Long braid, neat middle parting",
+      "approved": true
+    },
+    {
+      "character_id": "CHAR_FRIEND",
+      "source_name": "Friend",
+      "adapted_name": "Harpreet Singh",
+      "aliases": [
+        "Friend",
+        "Happy",
+        "Harpreet"
+      ],
+      "age": "27",
+      "role": "yaar / non-kin confidant",
+      "relationships": [
+        "childhood friend of Adam"
+      ],
+      "personality": "Teasing, locally grounded, pushes Adam toward the house not the street",
+      "dialect": "Majhi",
+      "emotional_state": "",
+      "entrance_scene": "SC02",
+      "exit_scene": "SC03",
+      "physical_description": "drives a small tempo; Adam's childhood yaar from the same pind; yaar / non-kin confidant",
+      "grooming": "Trim beard, practical village-driver look",
+      "approved": true
+    }
+  ],
+  "locations": [
+    {
+      "element_id": "LOC_HOUSE_FRONT_YARD",
+      "kind": "location",
+      "source_name": "House Front Yard",
+      "adapted_name": "",
+      "description": "",
+      "first_scene": "SC01",
+      "scenes": [
+        "SC01"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "LOC_KITCHEN",
+      "kind": "location",
+      "source_name": "Kitchen",
+      "adapted_name": "",
+      "description": "",
+      "first_scene": "SC02",
+      "scenes": [
+        "SC02"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "LOC_MARKET_STREET",
+      "kind": "location",
+      "source_name": "Market Street",
+      "adapted_name": "",
+      "description": "",
+      "first_scene": "SC03",
+      "scenes": [
+        "SC03"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "LOC_LIVING_ROOM",
+      "kind": "location",
+      "source_name": "Living Room",
+      "adapted_name": "",
+      "description": "",
+      "first_scene": "SC04",
+      "scenes": [
+        "SC04"
+      ],
+      "approved": true
+    }
+  ],
+  "props": [
+    {
+      "element_id": "PROP_LETTER",
+      "kind": "prop",
+      "source_name": "letter",
+      "adapted_name": "",
+      "description": "Recurring prop: letter",
+      "first_scene": "SC01",
+      "scenes": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC04"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "PROP_JACKET",
+      "kind": "prop",
+      "source_name": "jacket",
+      "adapted_name": "",
+      "description": "Recurring prop: jacket",
+      "first_scene": "SC01",
+      "scenes": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC04"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "PROP_PHONE",
+      "kind": "prop",
+      "source_name": "phone",
+      "adapted_name": "",
+      "description": "Recurring prop: phone",
+      "first_scene": "SC01",
+      "scenes": [
+        "SC01"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "PROP_KETTLE",
+      "kind": "prop",
+      "source_name": "kettle",
+      "adapted_name": "",
+      "description": "Recurring prop: kettle",
+      "first_scene": "SC02",
+      "scenes": [
+        "SC02"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "PROP_CUPS",
+      "kind": "prop",
+      "source_name": "cups",
+      "adapted_name": "",
+      "description": "Recurring prop: cups",
+      "first_scene": "SC02",
+      "scenes": [
+        "SC02"
+      ],
+      "approved": true
+    },
+    {
+      "element_id": "PROP_LAMP",
+      "kind": "prop",
+      "source_name": "lamp",
+      "adapted_name": "",
+      "description": "Recurring prop: lamp",
+      "first_scene": "SC04",
+      "scenes": [
+        "SC04"
+      ],
+      "approved": true
+    }
+  ],
+  "costumes": [
+    {
+      "costume_id": "COST_MOTHER_01",
+      "character_id": "CHAR_MOTHER",
+      "label": "Mother — day look",
+      "garments": "Cotton salwar kameez in maroon, contrasting phulkari-border dupatta covering the head indoors and out",
+      "fabrics": "Cotton / khaddar unless urban setting selected",
+      "colours": [
+        "maroon",
+        "gold",
+        "cream"
+      ],
+      "footwear": "Flat Punjabi juttis",
+      "jewellery": "Gold hoops, thin gold chain, white chooda-style bangles kept simple",
+      "headwear": "Grey-streaked hair in a bun, sindoor not emphasised",
+      "grooming": "Grey-streaked hair in a bun, sindoor not emphasised",
+      "scenes": [
+        "SC01",
+        "SC02",
+        "SC04"
+      ],
+      "change_reason": "No story reason to change; reused for continuity.",
+      "approved": true
+    },
+    {
+      "costume_id": "COST_ADAM_01",
+      "character_id": "CHAR_ADAM",
+      "label": "Adam — day look",
+      "garments": "White khaddar kurta, navy pajama, faded cotton jacket, leather juttis",
+      "fabrics": "Cotton / khaddar unless urban setting selected",
+      "colours": [
+        "off-white",
+        "navy",
+        "dust tan"
+      ],
+      "footwear": "Brown juttis",
+      "jewellery": "Kara on the right wrist",
+      "headwear": "Unshorn hair tied under a navy parna, light stubble",
+      "grooming": "Unshorn hair tied under a navy parna, light stubble",
+      "scenes": [
+        "SC01",
+        "SC02",
+        "SC03",
+        "SC04"
+      ],
+      "change_reason": "No story reason to change; reused for continuity.",
+      "approved": true
+    },
+    {
+      "costume_id": "COST_UNCLE_01",
+      "character_id": "CHAR_UNCLE",
+      "label": "Uncle — day look",
+      "garments": "Source-neutral clothing pending cultural plan",
+      "fabrics": "Cotton / khaddar unless urban setting selected",
+      "colours": [],
+      "footwear": "",
+      "jewellery": "",
+      "headwear": "",
+      "grooming": "",
+      "scenes": [
+        "SC01"
+      ],
+      "change_reason": "No story reason to change; reused for continuity.",
+      "approved": true
+    },
+    {
+      "costume_id": "COST_SISTER_01",
+      "character_id": "CHAR_SISTER",
+      "label": "Sister — day look",
+      "garments": "Mint kameez, white salwar, lightweight printed dupatta, no heavy makeup",
+      "fabrics": "Cotton / khaddar unless urban setting selected",
+      "colours": [
+        "mint",
+        "white",
+        "soft pink"
+      ],
+      "footwear": "Simple sandals",
+      "jewellery": "Small studs and a thin black thread bracelet",
+      "headwear": "Long braid, neat middle parting",
+      "grooming": "Long braid, neat middle parting",
+      "scenes": [
+        "SC01",
+        "SC02",
+        "SC04"
+      ],
+      "change_reason": "No story reason to change; reused for continuity.",
+      "approved": true
+    },
+    {
+      "costume_id": "COST_FRIEND_01",
+      "character_id": "CHAR_FRIEND",
+      "label": "Friend — day look",
+      "garments": "Checked shirt over a vest, cargo-style pajama, cloth cap rather than a full turban",
+      "fabrics": "Cotton / khaddar unless urban setting selected",
+      "colours": [
+        "olive check",
+        "khaki"
+      ],
+      "footwear": "Dusty sneakers",
+      "jewellery": "Kara",
+      "headwear": "Trim beard, practical village-driver look",
+      "grooming": "Trim beard, practical village-driver look",
+      "scenes": [
+        "SC02",
+        "SC03"
+      ],
+      "change_reason": "No story reason to change; reused for continuity.",
+      "approved": true
+    }
+  ],
+  "continuity": [
+    {
+      "scene_id": "SC01",
+      "wearing": {
+        "CHAR_MOTHER": "COST_MOTHER_01",
+        "CHAR_ADAM": "COST_ADAM_01",
+        "CHAR_UNCLE": "COST_UNCLE_01",
+        "CHAR_SISTER": "COST_SISTER_01"
+      },
+      "carrying": {
+        "CHAR_ADAM": [
+          "PROP_LETTER"
+        ]
+      },
+      "knowledge": {
+        "CHAR_SISTER": [
+          "letter_exists"
+        ],
+        "CHAR_MOTHER": [
+          "suspects_family_matter"
+        ]
+      },
+      "injuries": {},
+      "relationships": {
+        "CHAR_ADAM": "son under izzat pressure",
+        "CHAR_MOTHER": "household authority",
+        "CHAR_SISTER": "ally who refuses secrecy",
+        "CHAR_FRIEND": "non-kin counsel"
+      },
+      "emotion": {
+        "CHAR_ADAM": "avoidance",
+        "CHAR_MOTHER": "worry"
+      },
+      "notes": [
+        "Adam conceals the unopened letter in his jacket."
+      ]
+    },
+    {
+      "scene_id": "SC02",
+      "wearing": {
+        "CHAR_FRIEND": "COST_FRIEND_01",
+        "CHAR_ADAM": "COST_ADAM_01",
+        "CHAR_SISTER": "COST_SISTER_01",
+        "CHAR_MOTHER": "COST_MOTHER_01"
+      },
+      "carrying": {
+        "CHAR_ADAM": [
+          "PROP_LETTER"
+        ]
+      },
+      "knowledge": {
+        "CHAR_SISTER": [
+          "letter_exists",
+          "lie_about_course"
+        ],
+        "CHAR_MOTHER": [
+          "suspects_family_matter"
+        ],
+        "CHAR_FRIEND": [
+          "uncle_wants_shop"
+        ]
+      },
+      "injuries": {},
+      "relationships": {
+        "CHAR_ADAM": "son under izzat pressure",
+        "CHAR_MOTHER": "household authority",
+        "CHAR_SISTER": "ally who refuses secrecy",
+        "CHAR_FRIEND": "non-kin counsel"
+      },
+      "emotion": {
+        "CHAR_ADAM": "cornered",
+        "CHAR_MOTHER": "insists_on_truth"
+      },
+      "notes": [
+        "Letter remains in Adam's pocket; it does not change hands."
+      ]
+    },
+    {
+      "scene_id": "SC03",
+      "wearing": {
+        "CHAR_FRIEND": "COST_FRIEND_01",
+        "CHAR_ADAM": "COST_ADAM_01"
+      },
+      "carrying": {
+        "CHAR_ADAM": [
+          "PROP_LETTER"
+        ]
+      },
+      "knowledge": {
+        "CHAR_SISTER": [
+          "letter_exists",
+          "lie_about_course"
+        ],
+        "CHAR_MOTHER": [
+          "suspects_family_matter"
+        ],
+        "CHAR_FRIEND": [
+          "uncle_wants_shop"
+        ]
+      },
+      "injuries": {},
+      "relationships": {
+        "CHAR_ADAM": "son under izzat pressure",
+        "CHAR_MOTHER": "household authority",
+        "CHAR_SISTER": "ally who refuses secrecy",
+        "CHAR_FRIEND": "non-kin counsel"
+      },
+      "emotion": {
+        "CHAR_ADAM": "public_pressure",
+        "CHAR_FRIEND": "pushes_him_home"
+      },
+      "notes": [
+        "Letter remains in Adam's pocket; it does not change hands."
+      ]
+    },
+    {
+      "scene_id": "SC04",
+      "wearing": {
+        "CHAR_ADAM": "COST_ADAM_01",
+        "CHAR_MOTHER": "COST_MOTHER_01",
+        "CHAR_SISTER": "COST_SISTER_01"
+      },
+      "carrying": {},
+      "knowledge": {
+        "CHAR_SISTER": [
+          "letter_exists",
+          "lie_about_course"
+        ],
+        "CHAR_MOTHER": [
+          "knows_shop_offer",
+          "suspects_family_matter"
+        ],
+        "CHAR_FRIEND": [
+          "uncle_wants_shop"
+        ]
+      },
+      "injuries": {},
+      "relationships": {
+        "CHAR_ADAM": "son under izzat pressure",
+        "CHAR_MOTHER": "household authority",
+        "CHAR_SISTER": "ally who refuses secrecy",
+        "CHAR_FRIEND": "non-kin counsel"
+      },
+      "emotion": {
+        "CHAR_ADAM": "admission",
+        "CHAR_MOTHER": "dignity_restored",
+        "CHAR_SISTER": "solidarity"
+      },
+      "notes": [
+        "Letter transfers from Adam's pocket to the baithak table — household custody."
+      ]
+    }
+  ],
+  "adaptation_plan": {
+    "culture": {
+      "culture_id": "majhi",
+      "dialect": "Majhi",
+      "region": "Majha — Amritsar / Tarn Taran belt, Punjab",
+      "setting": "rural",
+      "script": "roman"
+    },
+    "summary": "Adapt the letter drama into Majhi Punjabi (rural Majha — Amritsar / Tarn Taran belt, Punjab). Household spaces (aangan, rasoi, baithak) remain the moral engine. Dialect is never the joke.",
+    "decisions": [
+      {
+        "decision_id": "D01",
+        "topic": "names",
+        "source": "Adam, Mother, Sister, Friend, Uncle",
+        "adapted": "Mother→Surjit Kaur, Adam→Jaswant Singh, Uncle→Mama Jagtar Singh, Sister→Simran Kaur, Friend→Harpreet Singh",
+        "reason": "Majhi kinship and village izzat need specific names, not generic North Indian labels.",
+        "uncertainty": "",
+        "needs_review": false
+      },
+      {
+        "decision_id": "D02",
+        "topic": "work and stakes",
+        "source": "an unnamed shop and a course",
+        "adapted": "Mama Jagtar's kiryana on the pind chowk versus Jaswant's remaining college year",
+        "reason": "The conflict is izzat and mother's brother's trust, not a generic career plot.",
+        "uncertainty": "",
+        "needs_review": false
+      },
+      {
+        "decision_id": "D03",
+        "topic": "verbal texture",
+        "source": "neutral English dialogue",
+        "adapted": "Majhi-Roman (and optional Gurmukhi) with Bebe, puttar, chiTThi, rasoi, baithak",
+        "reason": "Kinship and household space carry the drama; vocabulary-only translation would fail.",
+        "uncertainty": "",
+        "needs_review": false
+      },
+      {
+        "decision_id": "D04",
+        "topic": "non-verbal",
+        "source": "standing in a yard, sitting in a kitchen",
+        "adapted": "Bebe in the doorway with covered head; no one takes her baithak chair until she nods; letter placed on the low table, not handed in the street",
+        "reason": "Do not sit in Bebe's chair until she nods; cover the head in the baithak when the matter is serious",
+        "uncertainty": "",
+        "needs_review": false
+      },
+      {
+        "decision_id": "D05",
+        "topic": "visual world",
+        "source": "house, kitchen, market, living room",
+        "adapted": "rural Majha kothi and mandi road",
+        "reason": "Exact Majha architecture, phulkari-border dupatta, kara, juttis, steel glasses.",
+        "uncertainty": "",
+        "needs_review": false
+      },
+      {
+        "decision_id": "D06",
+        "topic": "humour",
+        "source": "lost a bet joke",
+        "adapted": "Yaar teasing about a lost shart, never mocking the dialect itself",
+        "reason": "Dry teasing (yaar, lost a bet) rather than slapstick; never use dialect as the joke",
+        "uncertainty": "",
+        "needs_review": false
+      },
+      {
+        "decision_id": "D07",
+        "topic": "story preservation",
+        "source": "concealment → pressure → public temptation → admission",
+        "adapted": "Same arc. Public refusal is culturally worse, so Scene 3 pushes him home rather than changing his goal.",
+        "reason": "Cultural change must not reverse Adam's motivation.",
+        "uncertainty": "",
+        "needs_review": false
+      }
+    ],
+    "uncertain_choices": [
+      "Exact neighbourhood slang varies between Amritsar city and village Majha; rural register is used unless the user selects urban.",
+      "Kinship tone after conflict is contested in some families; Bebe remains the default maternal address."
+    ],
+    "approved": true
+  },
+  "adapted_screenplay": "CHITthi JO NAHI KHOLI\nMajhi adaptation — rural Majha — Amritsar / Tarn Taran belt, Punjab\nOutput script: roman\n\nSCENE 1\nEXT. KOTHI DA AANGAN - EARLY MORNING\n\nBrick kothi with a small aangan, iron gate that never latches, peepal shade at the wall, charpai against the verandah\n\nA modest do-manzila kothi. Dew on the grass. A lohe da gate that never quite closes. Jaswant (28), restless, stands with an unopened envelope. He has not slept.\nBebe (55) watches from the verandah de darwaze, a phulkari-border dupatta around her shoulders. Simran (22) sits on the aangan di kandh, pretending to check her mobile.\nHe turns the envelope over. The handwriting is his Mama's.\nJaswant does not answer. He puts the letter back in his khaddar jacket de pocket and walks toward the rasoi door. Bebe's worry stays on her face. Simran follows him with her eyes, then looks down.\n\n                    SURJIT KAUR\n          Tu late aa gya, puttar. Jadon kujh gal hundi ae, tu\n          aidaan hi ghumda ae.\n\n                    JASWANT SINGH\n          Kujh gal nahi, Bebe. Saah lain nu bahar aaya si.\n\n                    SIMRAN KAUR\n          Oh chiTThi do din to pocket vich pae. Ja khol, ja\n          Bebe nu de de.\n\n                    SURJIT KAUR\n          Je mere veer di chiTThi ae te eh ghar di gal ae.\n          Ghar di gal merethon lukai nahi jaandi.\n\n\nSCENE 2\nINT. RASOI - MORNING\n\nSmoke-darkened rasoi with a gas stove, steel glasses, aluminium kettle, and a wooden almirah of masala tins\n\nSteam from a aluminium kettle. Three steel glasses wait on the table. The rasoi is the true centre of the house. Harpreet (27) has arrived early, as he always does when Jaswant is in trouble. He leans against the counter, trying to keep the mood light.\nSilence. Jaswant's hand stays on the pocket that holds the letter. The aluminium kettle clicks off.\nJaswant sits. He does not take the letter out. Simran places a cup in front of him, then one in front of Bebe. Harpreet looks at the floor, suddenly not funny.\nJaswant stands, still carrying the letter, and leaves through the back door. Simran starts to speak, then stops.\n\n                    HARPREET SINGH\n          Aidaan lagda ae jaan shart haar ke rasta vi haar\n          aaya hovein, yaar.\n\n                    JASWANT SINGH\n          Mama Jagtar ne likheya ae. Ohnu shop chahidi ae mere\n          kolon. Bebe hun vi samajhdi ae main padhda peaa\n          haan.\n\n                    SIMRAN KAUR\n          Tainu ohnau dassiya si ikk saal baaki ae.\n\n                    SURJIT KAUR\n          Main sunn rahi haan. Apni rasoi vich main koi parai\n          nahi.\n\n                    SURJIT KAUR\n          Beh ja. Chai pee le. Phir sach dass, oh gal nahi jo\n          tu bazaar vaaste tyaar karke rakhi ae.\n\n                    JASWANT SINGH\n          Kam ton baad, Bebe. Main dasanga kam ton baad.\n\n                    SURJIT KAUR\n          Kam ton baad di gal naal jhooth buddha ho janda ae.\n\n\nSCENE 3\nEXT. PIND DA CHOWK / MANDI ROAD - AFTERNOON\n\nOpen mandi road with kiryana, cycle-repair, and a reri of kulche-chole; buses throw dust\n\nA busy street of small shops, buses, and heat. Jaswant walks with Harpreet. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.\nThey stop near a kulche-chole di reri. Jaswant almost opens the envelope, then puts it away again.\nHe keeps the letter. They part. The pind da chowk continues without noticing.\n\n                    HARPREET SINGH\n          Je shop le li, tu pind vich rehna. Te je rehana, oh\n          bande banjna jehda Bebe ne paise nu pehlan hi dass\n          chhaddiya ae.\n\n                    JASWANT SINGH\n          Je na kar ditta, Bebe kahegi main Mama de kam ton\n          sharmaunda haan.\n\n                    HARPREET SINGH\n          Phir gall gali vich na kar. Ghar ja, Bebe tere moonh\n          te vece je tu gall karein.\n\n                    HARPREET SINGH\n          Simran jaandi ae. Bebe lagbhag jaandi ae. Naatak\n          sirf tu karan peaa ae.\n\n                    JASWANT SINGH\n          Shaam ton pehlan ghar jaanga. Kise paraye di himmat\n          chukk ke nahi avanga.\n\n\nSCENE 4\nINT. BAITHAK - EVENING\n\nBaithak with one sofa, floor dari, framed family photograph, and a low table for the letter\n\nThe house is quieter. A single lamp. Bebe sits in the Bebe di kursi. Simran stands near the window. Jaswant enters, dusty from the street, the same khaddar jacket, the same letter.\nHe takes the envelope out and places it on the chhoti mez between them. He does not sit until Bebe nods. He waits for Bebe's nod before taking a seat — baithak etiquette.\nBebe picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.\nSimran sits. Jaswant sits. The letter stays on the table, no longer hidden, not yet finished.\n\n                    JASWANT SINGH\n          Mama ne course chhadd ke kiryana sambhalan nu keha\n          ae. ChiTThi is vaaste lukai kyunki mainu darr si\n          tuhanu niiraan na kar deaan.\n\n                    SURJIT KAUR\n          Niiraan te main seh laini aan, puttar. Par ghar vich\n          aakhri jaanan vaali nahi ban sakdi.\n\n                    SIMRAN KAUR\n          Assi tere naal behnde. Eh kothi da matlab hi eh ae.\n\n                    JASWANT SINGH\n          Maaf kar de, Bebe. Shop baare hun vi pakka nahi.\n          Pakka eh ae ke pehlan dassna chahida si.\n\n                    SURJIT KAUR\n          Phir assaN ikkThhe paRhange. Us ton baad tu oh dass\n          jehda tainu chahida ae, oh nahi jehda tainu lagda ae\n          main seh sakdi haan.\n\n\nEND.",
+  "adapted_screenplay_gurmukhi": "ਨੋਟ: Full literary Gurmukhi would be written by a native Majhi reviewer. This track transliterates key kinship and place terms so the production pack never mixes an unrelated script's identity.\n\nCHITthi JO NAHI KHOLI\nMajhi adaptation — rural Majha — Amritsar / Tarn Taran belt, Punjab\nOutput script: roman\n\nSCENE 1\nEXT. ਕੋਠੀ DA ਆਂਗਣ - EARLY MORNING\n\nBrick ਕੋਠੀ with a small ਆਂਗਣ, iron gate that never latches, peepal shade at the wall, charpai against the verandah\n\nA modest do-manzila ਕੋਠੀ. Dew on the grass. A lohe da gate that never quite closes. ਜਸਵੰਤ (28), restless, stands with an unopened envelope. He has not slept.\nਬੇਬੇ (55) watches from the verandah de darwaze, a phulkari-border dupatta around her shoulders. ਸਿਮਰਨ (22) sits on the ਆਂਗਣ di kandh, pretending to check her mobile.\nHe turns the envelope over. The handwriting is his ਮਾਮਾ's.\nਜਸਵੰਤ does not answer. He puts the letter back in his khaddar jacket de pocket and walks toward the ਰਸੋਈ door. ਬੇਬੇ's worry stays on her face. ਸਿਮਰਨ follows him with her eyes, then looks down.\n\n                    SURJIT KAUR\n          Tu late aa gya, ਪੁੱਤਰ. Jadon kujh gal hundi ae, tu\n          aidaan hi ghumda ae.\n\n                    ਜਸਵੰਤ SINGH\n          Kujh gal nahi, ਬੇਬੇ. Saah lain nu bahar aaya si.\n\n                    ਸਿਮਰਨ KAUR\n          Oh ਚਿੱਠੀ do din to pocket vich pae. Ja khol, ja\n          ਬੇਬੇ nu de de.\n\n                    SURJIT KAUR\n          Je mere veer di ਚਿੱਠੀ ae te eh ghar di gal ae.\n          Ghar di gal merethon lukai nahi jaandi.\n\n\nSCENE 2\nINT. ਰਸੋਈ - MORNING\n\nSmoke-darkened ਰਸੋਈ with a gas stove, steel glasses, aluminium kettle, and a wooden almirah of masala tins\n\nSteam from a aluminium kettle. Three steel glasses wait on the table. The ਰਸੋਈ is the true centre of the house. ਹਰਪ੍ਰੀਤ (27) has arrived early, as he always does when ਜਸਵੰਤ is in trouble. He leans against the counter, trying to keep the mood light.\nSilence. ਜਸਵੰਤ's hand stays on the pocket that holds the letter. The aluminium kettle clicks off.\nਜਸਵੰਤ sits. He does not take the letter out. ਸਿਮਰਨ places a cup in front of him, then one in front of ਬੇਬੇ. ਹਰਪ੍ਰੀਤ looks at the floor, suddenly not funny.\nਜਸਵੰਤ stands, still carrying the letter, and leaves through the back door. ਸਿਮਰਨ starts to speak, then stops.\n\n                    ਹਰਪ੍ਰੀਤ SINGH\n          Aidaan lagda ae jaan shart haar ke rasta vi haar\n          aaya hovein, ਯਾਰ.\n\n                    ਜਸਵੰਤ SINGH\n          ਮਾਮਾ ਜਗਤਾਰ ne likheya ae. Ohnu shop chahidi ae mere\n          kolon. ਬੇਬੇ hun vi samajhdi ae main padhda peaa\n          haan.\n\n                    ਸਿਮਰਨ KAUR\n          Tainu ohnau dassiya si ikk saal baaki ae.\n\n                    SURJIT KAUR\n          Main sunn rahi haan. Apni ਰਸੋਈ vich main koi parai\n          nahi.\n\n                    SURJIT KAUR\n          Beh ja. Chai pee le. Phir sach dass, oh gal nahi jo\n          tu bazaar vaaste tਯਾਰ karke rakhi ae.\n\n                    ਜਸਵੰਤ SINGH\n          Kam ton baad, ਬੇਬੇ. Main dasanga kam ton baad.\n\n                    SURJIT KAUR\n          Kam ton baad di gal naal jhooth buddha ho janda ae.\n\n\nSCENE 3\nEXT. ਪਿੰਡ DA CHOWK / MANDI ROAD - AFTERNOON\n\nOpen mandi road with kiryana, cycle-repair, and a reri of kulche-chole; buses throw dust\n\nA busy street of small shops, buses, and heat. ਜਸਵੰਤ walks with ਹਰਪ੍ਰੀਤ. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.\nThey stop near a kulche-chole di reri. ਜਸਵੰਤ almost opens the envelope, then puts it away again.\nHe keeps the letter. They part. The ਪਿੰਡ da chowk continues without noticing.\n\n                    ਹਰਪ੍ਰੀਤ SINGH\n          Je shop le li, tu ਪਿੰਡ vich rehna. Te je rehana, oh\n          bande banjna jehda ਬੇਬੇ ne paise nu pehlan hi dass\n          chhaddiya ae.\n\n                    ਜਸਵੰਤ SINGH\n          Je na kar ditta, ਬੇਬੇ kahegi main ਮਾਮਾ de kam ton\n          sharmaunda haan.\n\n                    ਹਰਪ੍ਰੀਤ SINGH\n          Phir gall gali vich na kar. Ghar ja, ਬੇਬੇ tere moonh\n          te vece je tu gall karein.\n\n                    ਹਰਪ੍ਰੀਤ SINGH\n          ਸਿਮਰਨ jaandi ae. ਬੇਬੇ lagbhag jaandi ae. Naatak\n          sirf tu karan peaa ae.\n\n                    ਜਸਵੰਤ SINGH\n          Shaam ton pehlan ghar jaanga. Kise paraye di himmat\n          chukk ke nahi avanga.\n\n\nSCENE 4\nINT. ਬੈਠਕ - EVENING\n\nBaithak with one sofa, floor dari, framed family photograph, and a low table for the letter\n\nThe house is quieter. A single lamp. ਬੇਬੇ sits in the ਬੇਬੇ di kursi. ਸਿਮਰਨ stands near the window. ਜਸਵੰਤ enters, dusty from the street, the same khaddar jacket, the same letter.\nHe takes the envelope out and places it on the chhoti mez between them. He does not sit until ਬੇਬੇ nods. He waits for ਬੇਬੇ's nod before taking a seat — ਬੈਠਕ etiquette.\nਬੇਬੇ picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.\nਸਿਮਰਨ sits. ਜਸਵੰਤ sits. The letter stays on the table, no longer hidden, not yet finished.\n\n                    ਜਸਵੰਤ SINGH\n          ਮਾਮਾ ne course chhadd ke kiryana sambhalan nu keha\n          ae. ChiTThi is vaaste lukai kyunki mainu darr si\n          tuhanu niiraan na kar deaan.\n\n                    SURJIT KAUR\n          Niiraan te main seh laini aan, ਪੁੱਤਰ. Par ghar vich\n          aakhri jaanan vaali nahi ban sakdi.\n\n                    ਸਿਮਰਨ KAUR\n          Assi tere naal behnde. Eh ਕੋਠੀ da matlab hi eh ae.\n\n                    ਜਸਵੰਤ SINGH\n          Maaf kar de, ਬੇਬੇ. Shop baare hun vi pakka nahi.\n          Pakka eh ae ke pehlan dassna chahida si.\n\n                    SURJIT KAUR\n          Phir assaN ikkThhe paRhange. Us ton baad tu oh dass\n          jehda tainu chahida ae, oh nahi jehda tainu lagda ae\n          main seh sakdi haan.\n\n\nEND.",
+  "change_log": [
+    {
+      "scene_id": "SC01",
+      "kind": "location",
+      "source": "House Front Yard",
+      "adapted": "Kothi da aangan",
+      "reason": "Exact Majha place identity rather than a generic Indian house."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "action",
+      "source": "A modest two-storey house. Dew on the grass. A metal gate that never quite closes. ADAM (28), restless, stands with an unopened envelope. He has not slept.",
+      "adapted": "A modest do-manzila kothi. Dew on the grass. A lohe da gate that never quite closes. Jaswant (28), restless, stands with an unopened envelope. He has not slept.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "action",
+      "source": "MOTHER (55) watches from the doorway, a shawl around her shoulders. SISTER (22) sits on the low wall, pretending to check her phone.",
+      "adapted": "Bebe (55) watches from the verandah de darwaze, a phulkari-border dupatta around her shoulders. Simran (22) sits on the aangan di kandh, pretending to check her mobile.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "action",
+      "source": "He turns the envelope over. The handwriting is his uncle's.",
+      "adapted": "He turns the envelope over. The handwriting is his Mama's.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "action",
+      "source": "Adam does not answer. He puts the letter back in his jacket pocket and walks toward the kitchen door. Mother's worry stays on her face. Sister follows him with her eyes, then looks down.",
+      "adapted": "Jaswant does not answer. He puts the letter back in his khaddar jacket de pocket and walks toward the rasoi door. Bebe's worry stays on her face. Simran follows him with her eyes, then looks down.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "dialogue",
+      "source": "Mother: You came back late. You always do this when something is wrong.",
+      "adapted": "Surjit Kaur: Tu late aa gya, puttar. Jadon kujh gal hundi ae, tu aidaan hi ghumda ae.",
+      "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "dialogue",
+      "source": "Adam: Nothing is wrong. I just needed air.",
+      "adapted": "Jaswant Singh: Kujh gal nahi, Bebe. Saah lain nu bahar aaya si.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "dialogue",
+      "source": "Sister: That letter has been in your pocket for two days. Either open it or give it to her.",
+      "adapted": "Simran Kaur: Oh chiTThi do din to pocket vich pae. Ja khol, ja Bebe nu de de.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC01",
+      "kind": "dialogue",
+      "source": "Mother: If it is from my brother, it is a family matter. Do not hide family matters from me.",
+      "adapted": "Surjit Kaur: Je mere veer di chiTThi ae te eh ghar di gal ae. Ghar di gal merethon lukai nahi jaandi.",
+      "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "location",
+      "source": "Kitchen",
+      "adapted": "Rasoi",
+      "reason": "Exact Majha place identity rather than a generic Indian house."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "action",
+      "source": "Steam from a kettle. Three cups wait on the table. The kitchen is the true centre of the house. FRIEND (27) has arrived early, as he always does when Adam is in trouble. He leans against the counter, trying to keep the mood light.",
+      "adapted": "Steam from a aluminium kettle. Three steel glasses wait on the table. The rasoi is the true centre of the house. Harpreet (27) has arrived early, as he always does when Jaswant is in trouble. He leans against the counter, trying to keep the mood light.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "action",
+      "source": "Silence. Adam's hand stays on the pocket that holds the letter. The kettle clicks off.",
+      "adapted": "Silence. Jaswant's hand stays on the pocket that holds the letter. The aluminium kettle clicks off.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "action",
+      "source": "Adam sits. He does not take the letter out. Sister places a cup in front of him, then one in front of Mother. Friend looks at the floor, suddenly not funny.",
+      "adapted": "Jaswant sits. He does not take the letter out. Simran places a cup in front of him, then one in front of Bebe. Harpreet looks at the floor, suddenly not funny.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "action",
+      "source": "Adam stands, still carrying the letter, and leaves through the back door. Sister starts to speak, then stops.",
+      "adapted": "Jaswant stands, still carrying the letter, and leaves through the back door. Simran starts to speak, then stops.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Friend: You look like a man who lost a bet and then lost the walk home.",
+      "adapted": "Harpreet Singh: Aidaan lagda ae jaan shart haar ke rasta vi haar aaya hovein, yaar.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Adam: My uncle wrote. He wants me to take the shop. Mother still thinks I am studying.",
+      "adapted": "Jaswant Singh: Mama Jagtar ne likheya ae. Ohnu shop chahidi ae mere kolon. Bebe hun vi samajhdi ae main padhda peaa haan.",
+      "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Sister: You told her you had one year left.",
+      "adapted": "Simran Kaur: Tainu ohnau dassiya si ikk saal baaki ae.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Mother: I can hear you. I am not a guest in my own kitchen.",
+      "adapted": "Surjit Kaur: Main sunn rahi haan. Apni rasoi vich main koi parai nahi.",
+      "reason": "Rasoi is the authority space; Bebe refuses guest status."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Mother: Sit. Drink. Then tell me the truth, not the version you prepared for strangers.",
+      "adapted": "Surjit Kaur: Beh ja. Chai pee le. Phir sach dass, oh gal nahi jo tu bazaar vaaste tyaar karke rakhi ae.",
+      "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Adam: After work. I will tell you after work.",
+      "adapted": "Jaswant Singh: Kam ton baad, Bebe. Main dasanga kam ton baad.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC02",
+      "kind": "dialogue",
+      "source": "Mother: After work is how lies grow old.",
+      "adapted": "Surjit Kaur: Kam ton baad di gal naal jhooth buddha ho janda ae.",
+      "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "location",
+      "source": "Market Street",
+      "adapted": "Pind da chowk / mandi road",
+      "reason": "Exact Majha place identity rather than a generic Indian house."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "action",
+      "source": "A busy street of small shops, buses, and heat. Adam walks with Friend. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+      "adapted": "A busy street of small shops, buses, and heat. Jaswant walks with Harpreet. The letter is still in his pocket. A hawker calls out. A bicycle bell cuts through the noise.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "action",
+      "source": "They stop near a tea stall. Adam almost opens the envelope, then puts it away again.",
+      "adapted": "They stop near a kulche-chole di reri. Jaswant almost opens the envelope, then puts it away again.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "action",
+      "source": "He keeps the letter. They part. The market continues without noticing.",
+      "adapted": "He keeps the letter. They part. The pind da chowk continues without noticing.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "dialogue",
+      "source": "Friend: If you take the shop, you stay. If you stay, you become the man she already introduced to the neighbours.",
+      "adapted": "Harpreet Singh: Je shop le li, tu pind vich rehna. Te je rehana, oh bande banjna jehda Bebe ne paise nu pehlan hi dass chhaddiya ae.",
+      "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "dialogue",
+      "source": "Adam: If I refuse, she will think I am ashamed of her brother's work.",
+      "adapted": "Jaswant Singh: Je na kar ditta, Bebe kahegi main Mama de kam ton sharmaunda haan.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "dialogue",
+      "source": "Friend: Then do not refuse in the street. Go home and let her see your face when you say it.",
+      "adapted": "Harpreet Singh: Phir gall gali vich na kar. Ghar ja, Bebe tere moonh te vece je tu gall karein.",
+      "reason": "Public refusal would travel through the pind; Friend sends him home."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "dialogue",
+      "source": "Friend: Your sister already knows. Your mother almost knows. The only person still pretending is you.",
+      "adapted": "Harpreet Singh: Simran jaandi ae. Bebe lagbhag jaandi ae. Naatak sirf tu karan peaa ae.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC03",
+      "kind": "dialogue",
+      "source": "Adam: I will go home before evening. I will not bring a stranger's courage with me.",
+      "adapted": "Jaswant Singh: Shaam ton pehlan ghar jaanga. Kise paraye di himmat chukk ke nahi avanga.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "location",
+      "source": "Living Room",
+      "adapted": "Baithak",
+      "reason": "Exact Majha place identity rather than a generic Indian house."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "action",
+      "source": "The house is quieter. A single lamp. Mother sits in the main chair. Sister stands near the window. Adam enters, dusty from the street, the same jacket, the same letter.",
+      "adapted": "The house is quieter. A single lamp. Bebe sits in the Bebe di kursi. Simran stands near the window. Jaswant enters, dusty from the street, the same khaddar jacket, the same letter.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "action",
+      "source": "He takes the envelope out and places it on the low table between them. He does not sit until Mother nods.",
+      "adapted": "He takes the envelope out and places it on the chhoti mez between them. He does not sit until Bebe nods. He waits for Bebe's nod before taking a seat — baithak etiquette.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "action",
+      "source": "Mother picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.",
+      "adapted": "Bebe picks up the letter, feels its weight, and does not open it yet. She looks at her son, then at her daughter.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "action",
+      "source": "Sister sits. Adam sits. The letter stays on the table, no longer hidden, not yet finished.",
+      "adapted": "Simran sits. Jaswant sits. The letter stays on the table, no longer hidden, not yet finished.",
+      "reason": "Gesture, prop, and spatial behaviour rewritten for Majhi household etiquette."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "dialogue",
+      "source": "Adam: Uncle asked me to leave the course and take the shop. I hid the letter because I was afraid of disappointing you.",
+      "adapted": "Jaswant Singh: Mama ne course chhadd ke kiryana sambhalan nu keha ae. ChiTThi is vaaste lukai kyunki mainu darr si tuhanu niiraan na kar deaan.",
+      "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "dialogue",
+      "source": "Mother: I can survive disappointment. I cannot survive being the last to know.",
+      "adapted": "Surjit Kaur: Niiraan te main seh laini aan, puttar. Par ghar vich aakhri jaanan vaali nahi ban sakdi.",
+      "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "dialogue",
+      "source": "Sister: We would have sat with you. That is the whole point of this house.",
+      "adapted": "Simran Kaur: Assi tere naal behnde. Eh kothi da matlab hi eh ae.",
+      "reason": "Majhi rhythm, kinship, and household space — not word-for-word English."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "dialogue",
+      "source": "Adam: I am sorry. I am still not sure I want the shop. I am sure I should have said so.",
+      "adapted": "Jaswant Singh: Maaf kar de, Bebe. Shop baare hun vi pakka nahi. Pakka eh ae ke pehlan dassna chahida si.",
+      "reason": "Work and izzat are named as Mama's kiryana, not a generic shop."
+    },
+    {
+      "scene_id": "SC04",
+      "kind": "dialogue",
+      "source": "Mother: Then we will read it together. After that, you will tell me what you want, not what you think I can bear.",
+      "adapted": "Surjit Kaur: Phir assaN ikkThhe paRhange. Us ton baad tu oh dass jehda tainu chahida ae, oh nahi jehda tainu lagda ae main seh sakdi haan.",
+      "reason": "Kinship address and dignity (izzat) replace generic parental scolding."
+    }
+  ],
+  "visuals": [
+    {
+      "asset_id": "VIS_CHAR_MOTHER",
+      "kind": "character",
+      "canonical_id": "CHAR_MOTHER",
+      "title": "Surjit Kaur",
+      "path": "sample_output/character_bible/CHAR_MOTHER.svg",
+      "prompt": "Photoreal production still, full-body character bible of Surjit Kaur, Majhi Punjabi rural Majha — Amritsar / Tarn Taran belt, Punjab, age 55, Cotton salwar kameez in maroon, contrasting phulkari-border dupatta covering the head indoors and out, Grey-streaked hair in a bun, sindoor not emphasised, kara visible, natural skin texture, documentary lighting, dusty courtyard backdrop, culturally specific not generic Indian costume, consistent face and body. Culture id=majhi only.",
+      "model": "svg-renderer-v3",
+      "seed": "b085ad7bd5",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_CHAR_ADAM",
+      "kind": "character",
+      "canonical_id": "CHAR_ADAM",
+      "title": "Jaswant Singh",
+      "path": "sample_output/character_bible/CHAR_ADAM.svg",
+      "prompt": "Photoreal production still, full-body character bible of Jaswant Singh, Majhi Punjabi rural Majha — Amritsar / Tarn Taran belt, Punjab, age 28, White khaddar kurta, navy pajama, faded cotton jacket, leather juttis, Unshorn hair tied under a navy parna, light stubble, kara visible, natural skin texture, documentary lighting, dusty courtyard backdrop, culturally specific not generic Indian costume, consistent face and body. Culture id=majhi only.",
+      "model": "svg-renderer-v3",
+      "seed": "0404496c9a",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_CHAR_SISTER",
+      "kind": "character",
+      "canonical_id": "CHAR_SISTER",
+      "title": "Simran Kaur",
+      "path": "sample_output/character_bible/CHAR_SISTER.svg",
+      "prompt": "Photoreal production still, full-body character bible of Simran Kaur, Majhi Punjabi rural Majha — Amritsar / Tarn Taran belt, Punjab, age 22, Mint kameez, white salwar, lightweight printed dupatta, no heavy makeup, Long braid, neat middle parting, kara visible, natural skin texture, documentary lighting, dusty courtyard backdrop, culturally specific not generic Indian costume, consistent face and body. Culture id=majhi only.",
+      "model": "svg-renderer-v3",
+      "seed": "dc6a9f2313",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_CHAR_FRIEND",
+      "kind": "character",
+      "canonical_id": "CHAR_FRIEND",
+      "title": "Harpreet Singh",
+      "path": "sample_output/character_bible/CHAR_FRIEND.svg",
+      "prompt": "Photoreal production still, full-body character bible of Harpreet Singh, Majhi Punjabi rural Majha — Amritsar / Tarn Taran belt, Punjab, age 27, Checked shirt over a vest, cargo-style pajama, cloth cap rather than a full turban, Trim beard, practical village-driver look, kara visible, natural skin texture, documentary lighting, dusty courtyard backdrop, culturally specific not generic Indian costume, consistent face and body. Culture id=majhi only.",
+      "model": "svg-renderer-v3",
+      "seed": "50d0d2ca1c",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_COST_MOTHER_01",
+      "kind": "costume",
+      "canonical_id": "COST_MOTHER_01",
+      "title": "Mother — day look",
+      "path": "sample_output/costume_bible/COST_MOTHER_01.svg",
+      "prompt": "Costume bible plate for COST_MOTHER_01 worn by Surjit Kaur: Cotton salwar kameez in maroon, contrasting phulkari-border dupatta covering the head indoors and out. Show garments, fabrics, colours maroon, gold, cream, footwear Flat Punjabi juttis, jewellery Gold hoops, thin gold chain, white chooda-style bangles kept simple. One unique variant reused in scenes SC01, SC02, SC04. majhi rural only.",
+      "model": "svg-renderer-v3",
+      "seed": "2bf3de9545",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_COST_ADAM_01",
+      "kind": "costume",
+      "canonical_id": "COST_ADAM_01",
+      "title": "Adam — day look",
+      "path": "sample_output/costume_bible/COST_ADAM_01.svg",
+      "prompt": "Costume bible plate for COST_ADAM_01 worn by Jaswant Singh: White khaddar kurta, navy pajama, faded cotton jacket, leather juttis. Show garments, fabrics, colours off-white, navy, dust tan, footwear Brown juttis, jewellery Kara on the right wrist. One unique variant reused in scenes SC01, SC02, SC03, SC04. majhi rural only.",
+      "model": "svg-renderer-v3",
+      "seed": "9c722ecc6a",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_COST_SISTER_01",
+      "kind": "costume",
+      "canonical_id": "COST_SISTER_01",
+      "title": "Sister — day look",
+      "path": "sample_output/costume_bible/COST_SISTER_01.svg",
+      "prompt": "Costume bible plate for COST_SISTER_01 worn by Simran Kaur: Mint kameez, white salwar, lightweight printed dupatta, no heavy makeup. Show garments, fabrics, colours mint, white, soft pink, footwear Simple sandals, jewellery Small studs and a thin black thread bracelet. One unique variant reused in scenes SC01, SC02, SC04. majhi rural only.",
+      "model": "svg-renderer-v3",
+      "seed": "5218f6850a",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_COST_FRIEND_01",
+      "kind": "costume",
+      "canonical_id": "COST_FRIEND_01",
+      "title": "Friend — day look",
+      "path": "sample_output/costume_bible/COST_FRIEND_01.svg",
+      "prompt": "Costume bible plate for COST_FRIEND_01 worn by Harpreet Singh: Checked shirt over a vest, cargo-style pajama, cloth cap rather than a full turban. Show garments, fabrics, colours olive check, khaki, footwear Dusty sneakers, jewellery Kara. One unique variant reused in scenes SC02, SC03. majhi rural only.",
+      "model": "svg-renderer-v3",
+      "seed": "0b204fae5e",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_SC01",
+      "kind": "scene",
+      "canonical_id": "SC01",
+      "title": "SC01 House Front Yard",
+      "path": "sample_output/scene_keyframes/SC01.svg",
+      "prompt": "Cinematic keyframe SC01: EXT Brick kothi with a small aangan, iron gate that never latches, peepal shade at the wall, charpai against the verandah. Time Early Morning, weather dew, pale light. Characters ['Surjit Kaur', 'Jaswant Singh', 'Mama Jagtar Singh', 'Simran Kaur'] in approved costumes ['COST_MOTHER_01', 'COST_ADAM_01', 'COST_UNCLE_01', 'COST_SISTER_01']. Props ['PROP_LETTER', 'PROP_JACKET', 'PROP_PHONE']. Mood uneasy dawn. Blocking tells Majha even if dialogue is hidden. Do not mix Malwai or generic Rajasthani/Punjabi-stock look.",
+      "model": "svg-renderer-v3",
+      "seed": "b8c34b4fc7",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_SC02",
+      "kind": "scene",
+      "canonical_id": "SC02",
+      "title": "SC02 Kitchen",
+      "path": "sample_output/scene_keyframes/SC02.svg",
+      "prompt": "Cinematic keyframe SC02: INT Smoke-darkened rasoi with a gas stove, steel glasses, aluminium kettle, and a wooden almirah of masala tins. Time Morning, weather indoor, still air. Characters ['Surjit Kaur', 'Jaswant Singh', 'Simran Kaur', 'Harpreet Singh'] in approved costumes ['COST_FRIEND_01', 'COST_ADAM_01', 'COST_SISTER_01', 'COST_MOTHER_01']. Props ['PROP_LETTER', 'PROP_JACKET', 'PROP_KETTLE', 'PROP_CUPS']. Mood tight domestic confrontation. Blocking tells Majha even if dialogue is hidden. Do not mix Malwai or generic Rajasthani/Punjabi-stock look.",
+      "model": "svg-renderer-v3",
+      "seed": "f1b77ba02e",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_SC03",
+      "kind": "scene",
+      "canonical_id": "SC03",
+      "title": "SC03 Market Street",
+      "path": "sample_output/scene_keyframes/SC03.svg",
+      "prompt": "Cinematic keyframe SC03: EXT Open mandi road with kiryana, cycle-repair, and a reri of kulche-chole; buses throw dust. Time Afternoon, weather hot, dusty. Characters ['Jaswant Singh', 'Harpreet Singh'] in approved costumes ['COST_FRIEND_01', 'COST_ADAM_01']. Props ['PROP_LETTER', 'PROP_JACKET']. Mood heat and avoidance. Blocking tells Majha even if dialogue is hidden. Do not mix Malwai or generic Rajasthani/Punjabi-stock look.",
+      "model": "svg-renderer-v3",
+      "seed": "3d1466ddf0",
+      "status": "ok",
+      "error": ""
+    },
+    {
+      "asset_id": "VIS_SC04",
+      "kind": "scene",
+      "canonical_id": "SC04",
+      "title": "SC04 Living Room",
+      "path": "sample_output/scene_keyframes/SC04.svg",
+      "prompt": "Cinematic keyframe SC04: INT Baithak with one sofa, floor dari, framed family photograph, and a low table for the letter. Time Evening, weather indoor, still air. Characters ['Surjit Kaur', 'Jaswant Singh', 'Simran Kaur'] in approved costumes ['COST_ADAM_01', 'COST_MOTHER_01', 'COST_SISTER_01']. Props ['PROP_LETTER', 'PROP_JACKET', 'PROP_LAMP']. Mood quiet reckoning. Blocking tells Majha even if dialogue is hidden. Do not mix Malwai or generic Rajasthani/Punjabi-stock look.",
+      "model": "svg-renderer-v3",
+      "seed": "418cb5448b",
+      "status": "ok",
+      "error": ""
+    }
+  ],
+  "extraction_approved": true,
+  "costumes_approved": true,
+  "model_calls": 1,
+  "tool_calls": 15,
+  "human_notes": []
+}

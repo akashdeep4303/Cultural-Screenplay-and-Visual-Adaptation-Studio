@@ -1,0 +1,153 @@
+[
+  {
+    "scene_id": "SC01",
+    "wearing": {
+      "CHAR_MOTHER": "COST_MOTHER_01",
+      "CHAR_ADAM": "COST_ADAM_01",
+      "CHAR_UNCLE": "COST_UNCLE_01",
+      "CHAR_SISTER": "COST_SISTER_01"
+    },
+    "carrying": {
+      "CHAR_ADAM": [
+        "PROP_LETTER"
+      ]
+    },
+    "knowledge": {
+      "CHAR_SISTER": [
+        "letter_exists"
+      ],
+      "CHAR_MOTHER": [
+        "suspects_family_matter"
+      ]
+    },
+    "injuries": {},
+    "relationships": {
+      "CHAR_ADAM": "son under izzat pressure",
+      "CHAR_MOTHER": "household authority",
+      "CHAR_SISTER": "ally who refuses secrecy",
+      "CHAR_FRIEND": "non-kin counsel"
+    },
+    "emotion": {
+      "CHAR_ADAM": "avoidance",
+      "CHAR_MOTHER": "worry"
+    },
+    "notes": [
+      "Adam conceals the unopened letter in his jacket."
+    ]
+  },
+  {
+    "scene_id": "SC02",
+    "wearing": {
+      "CHAR_FRIEND": "COST_FRIEND_01",
+      "CHAR_ADAM": "COST_ADAM_01",
+      "CHAR_SISTER": "COST_SISTER_01",
+      "CHAR_MOTHER": "COST_MOTHER_01"
+    },
+    "carrying": {
+      "CHAR_ADAM": [
+        "PROP_LETTER"
+      ]
+    },
+    "knowledge": {
+      "CHAR_SISTER": [
+        "letter_exists",
+        "lie_about_course"
+      ],
+      "CHAR_MOTHER": [
+        "suspects_family_matter"
+      ],
+      "CHAR_FRIEND": [
+        "uncle_wants_shop"
+      ]
+    },
+    "injuries": {},
+    "relationships": {
+      "CHAR_ADAM": "son under izzat pressure",
+      "CHAR_MOTHER": "household authority",
+      "CHAR_SISTER": "ally who refuses secrecy",
+      "CHAR_FRIEND": "non-kin counsel"
+    },
+    "emotion": {
+      "CHAR_ADAM": "cornered",
+      "CHAR_MOTHER": "insists_on_truth"
+    },
+    "notes": [
+      "Letter remains in Adam's pocket; it does not change hands."
+    ]
+  },
+  {
+    "scene_id": "SC03",
+    "wearing": {
+      "CHAR_FRIEND": "COST_FRIEND_01",
+      "CHAR_ADAM": "COST_ADAM_01"
+    },
+    "carrying": {
+      "CHAR_ADAM": [
+        "PROP_LETTER"
+      ]
+    },
+    "knowledge": {
+      "CHAR_SISTER": [
+        "letter_exists",
+        "lie_about_course"
+      ],
+      "CHAR_MOTHER": [
+        "suspects_family_matter"
+      ],
+      "CHAR_FRIEND": [
+        "uncle_wants_shop"
+      ]
+    },
+    "injuries": {},
+    "relationships": {
+      "CHAR_ADAM": "son under izzat pressure",
+      "CHAR_MOTHER": "household authority",
+      "CHAR_SISTER": "ally who refuses secrecy",
+      "CHAR_FRIEND": "non-kin counsel"
+    },
+    "emotion": {
+      "CHAR_ADAM": "public_pressure",
+      "CHAR_FRIEND": "pushes_him_home"
+    },
+    "notes": [
+      "Letter remains in Adam's pocket; it does not change hands."
+    ]
+  },
+  {
+    "scene_id": "SC04",
+    "wearing": {
+      "CHAR_ADAM": "COST_ADAM_01",
+      "CHAR_MOTHER": "COST_MOTHER_01",
+      "CHAR_SISTER": "COST_SISTER_01"
+    },
+    "carrying": {},
+    "knowledge": {
+      "CHAR_SISTER": [
+        "letter_exists",
+        "lie_about_course"
+      ],
+      "CHAR_MOTHER": [
+        "knows_shop_offer",
+        "suspects_family_matter"
+      ],
+      "CHAR_FRIEND": [
+        "uncle_wants_shop"
+      ]
+    },
+    "injuries": {},
+    "relationships": {
+      "CHAR_ADAM": "son under izzat pressure",
+      "CHAR_MOTHER": "household authority",
+      "CHAR_SISTER": "ally who refuses secrecy",
+      "CHAR_FRIEND": "non-kin counsel"
+    },
+    "emotion": {
+      "CHAR_ADAM": "admission",
+      "CHAR_MOTHER": "dignity_restored",
+      "CHAR_SISTER": "solidarity"
+    },
+    "notes": [
+      "Letter transfers from Adam's pocket to the baithak table \u2014 household custody."
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "culture": {
+    "culture_id": "majhi",
+    "dialect": "Majhi",
+    "region": "Majha \u2014 Amritsar / Tarn Taran belt, Punjab",
+    "setting": "rural",
+    "script": "roman"
+  },
+  "summary": "Adapt the letter drama into Majhi Punjabi (rural Majha \u2014 Amritsar / Tarn Taran belt, Punjab). Household spaces (aangan, rasoi, baithak) remain the moral engine. Dialect is never the joke.",
+  "decisions": [
+    {
+      "decision_id": "D01",
+      "topic": "names",
+      "source": "Adam, Mother, Sister, Friend, Uncle",
+      "adapted": "Mother\u2192Surjit Kaur, Adam\u2192Jaswant Singh, Uncle\u2192Mama Jagtar Singh, Sister\u2192Simran Kaur, Friend\u2192Harpreet Singh",
+      "reason": "Majhi kinship and village izzat need specific names, not generic North Indian labels.",
+      "uncertainty": "",
+      "needs_review": false
+    },
+    {
+      "decision_id": "D02",
+      "topic": "work and stakes",
+      "source": "an unnamed shop and a course",
+      "adapted": "Mama Jagtar's kiryana on the pind chowk versus Jaswant's remaining college year",
+      "reason": "The conflict is izzat and mother's brother's trust, not a generic career plot.",
+      "uncertainty": "",
+      "needs_review": false
+    },
+    {
+      "decision_id": "D03",
+      "topic": "verbal texture",
+      "source": "neutral English dialogue",
+      "adapted": "Majhi-Roman (and optional Gurmukhi) with Bebe, puttar, chiTThi, rasoi, baithak",
+      "reason": "Kinship and household space carry the drama; vocabulary-only translation would fail.",
+      "uncertainty": "",
+      "needs_review": false
+    },
+    {
+      "decision_id": "D04",
+      "topic": "non-verbal",
+      "source": "standing in a yard, sitting in a kitchen",
+      "adapted": "Bebe in the doorway with covered head; no one takes her baithak chair until she nods; letter placed on the low table, not handed in the street",
+      "reason": "Do not sit in Bebe's chair until she nods; cover the head in the baithak when the matter is serious",
+      "uncertainty": "",
+      "needs_review": false
+    },
+    {
+      "decision_id": "D05",
+      "topic": "visual world",
+      "source": "house, kitchen, market, living room",
+      "adapted": "rural Majha kothi and mandi road",
+      "reason": "Exact Majha architecture, phulkari-border dupatta, kara, juttis, steel glasses.",
+      "uncertainty": "",
+      "needs_review": false
+    },
+    {
+      "decision_id": "D06",
+      "topic": "humour",
+      "source": "lost a bet joke",
+      "adapted": "Yaar teasing about a lost shart, never mocking the dialect itself",
+      "reason": "Dry teasing (yaar, lost a bet) rather than slapstick; never use dialect as the joke",
+      "uncertainty": "",
+      "needs_review": false
+    },
+    {
+      "decision_id": "D07",
+      "topic": "story preservation",
+      "source": "concealment \u2192 pressure \u2192 public temptation \u2192 admission",
+      "adapted": "Same arc. Public refusal is culturally worse, so Scene 3 pushes him home rather than changing his goal.",
+      "reason": "Cultural change must not reverse Adam's motivation.",
+      "uncertainty": "",
+      "needs_review": false
+    }
+  ],
+  "uncertain_choices": [
+    "Exact neighbourhood slang varies between Amritsar city and village Majha; rural register is used unless the user selects urban.",
+    "Kinship tone after conflict is contested in some families; Bebe remains the default maternal address."
+  ],
+  "approved": true
+}

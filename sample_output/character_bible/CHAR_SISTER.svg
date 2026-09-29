@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 640" width="420" height="640">
+  <defs>
+  <linearGradient id="studio" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f6ead0"/>
+    <stop offset="55%" stop-color="#e8d5b5"/>
+    <stop offset="100%" stop-color="#c9ae86"/>
+  </linearGradient>
+  <linearGradient id="dawn" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#f7d3a1"/>
+    <stop offset="100%" stop-color="#f2c9a0"/>
+  </linearGradient>
+  <filter id="grain">
+    <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="2"/>
+    <feColorMatrix type="saturate" values="0"/>
+    <feComponentTransfer><feFuncA type="linear" slope="0.07"/></feComponentTransfer>
+  </filter>
+</defs>
+  <defs>
+  <radialGradient id="skin-char_sister" cx="38%" cy="32%" r="70%">
+    <stop offset="0%" stop-color="#f0d0a8"/>
+    <stop offset="55%" stop-color="#d4a070"/>
+    <stop offset="100%" stop-color="#a06a48"/>
+  </radialGradient>
+  <linearGradient id="cloth-char_sister" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#93d0b0"/>
+    <stop offset="45%" stop-color="#7dba9a"/>
+    <stop offset="100%" stop-color="#619e7e"/>
+  </linearGradient>
+  <linearGradient id="salwar-char_sister" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fffffc"/>
+    <stop offset="100%" stop-color="#dad8d2"/>
+  </linearGradient>
+  <linearGradient id="jacket-char_sister" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f1c1cc"/>
+    <stop offset="100%" stop-color="#c4949f"/>
+  </linearGradient>
+  <pattern id="check-char_sister" width="11" height="11" patternUnits="userSpaceOnUse">
+    <rect width="11" height="11" fill="#7dba9a"/>
+    <rect width="5.5" height="5.5" fill="#3d4a28" opacity="0.42"/>
+    <rect x="5.5" y="5.5" width="5.5" height="5.5" fill="#3d4a28" opacity="0.42"/>
+  </pattern>
+  <pattern id="phulkari-char_sister" width="16" height="16" patternUnits="userSpaceOnUse">
+    <rect width="16" height="16" fill="#f8f6f0"/>
+    <path d="M8,2 L10,8 L8,14 L6,8 Z" fill="#d4a017" opacity="0.85"/>
+    <circle cx="8" cy="8" r="1.6" fill="#f4ead4"/>
+  </pattern>
+  <filter id="soft-char_sister" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="3" stdDeviation="2.4" flood-color="#1a120c" flood-opacity="0.28"/>
+  </filter>
+</defs>
+  <rect width="420" height="640" fill="url(#studio)"/>
+  <rect x="0" y="0" width="420" height="640" filter="url(#grain)" opacity="0.55"/>
+  <rect x="16" y="16" width="388" height="608" fill="none" stroke="#d4a017" stroke-width="2"/>
+  <text x="210" y="46" text-anchor="middle" font-family="Georgia" font-size="20" fill="#1e3354">Simran Kaur</text>
+  <text x="210" y="66" text-anchor="middle" font-family="Georgia" font-size="11" fill="#a45a3c">CHAR_SISTER · Sister · seed dc6a9f2313</text>
+  <ellipse cx="210" cy="478" rx="96" ry="20" fill="#2b2118" opacity="0.16"/>
+  <g transform="translate(210,468) scale(1.62)"><g class="figure-sister" filter="url(#soft-char_sister)" transform="translate(0,0)  "><ellipse cx="2" cy="5" rx="36" ry="9" fill="#1c140e" opacity="0.32"/><path d="M16,-188 Q52,-116 30,-66 Q-8,-90 -22,-170 Q8,-178 16,-188 Z" fill="#e7b7c2" opacity="0.9"/><path d="M18,-180 Q36,-98 24,-72" fill="none" stroke="#fff" stroke-width="1" opacity="0.35"/><path d="M-24,-4 Q-28,-90 -16,-108 L-3,-108 L-6,-4 Z" fill="url(#salwar-char_sister)"/><path d="M6,-4 L8,-108 L20,-108 Q28,-90 24,-4 Z" fill="url(#salwar-char_sister)"/><path d="M-20,-8 Q0,-20 20,-8 L18,5 Q0,14 -18,5 Z" fill="url(#salwar-char_sister)"/><ellipse cx="-12" cy="3" rx="14" ry="5" fill="#6b3e28"/><ellipse cx="12" cy="3" rx="14" ry="5" fill="#6b3e28"/><path d="M-20,2 Q-12,-2 -4,3" fill="none" stroke="#d4a017" stroke-width="0.8" opacity="0.55"/><path d="M-31,-101 L-35,-176 Q-10,-200 0,-196 Q10,-200 35,-176 L31,-101 Q0,-88 -31,-101 Z" fill="url(#cloth-char_sister)"/><path d="M-8,-180 L-6,-102 M8,-180 L6,-102" stroke="#fff" stroke-width="0.6" opacity="0.22"/><path d="M0,-188 L0,-100" stroke="#2b2118" stroke-width="0.7" opacity="0.18"/><circle cx="0" cy="-170" r="1.5" fill="#d4a017" opacity="0.75"/><circle cx="0" cy="-156" r="1.5" fill="#d4a017" opacity="0.75"/><circle cx="0" cy="-142" r="1.5" fill="#d4a017" opacity="0.75"/><circle cx="0" cy="-128" r="1.5" fill="#d4a017" opacity="0.75"/><path d="M-28,-168 Q-44,-108 -28,-82" fill="none" stroke="url(#cloth-char_sister)" stroke-width="11" stroke-linecap="round"/><path d="M28,-168 Q44,-108 28,-82" fill="none" stroke="url(#cloth-char_sister)" stroke-width="11" stroke-linecap="round"/><circle cx="-28" cy="-80" r="6.4" fill="url(#skin-char_sister)"/><circle cx="28" cy="-80" r="6.4" fill="url(#skin-char_sister)"/><rect x="-6.5" y="-195" width="13" height="13" rx="5" fill="url(#skin-char_sister)"/><ellipse cx="0" cy="-234" rx="22" ry="12" fill="#241810"/><path d="M-18,-227 Q-24,-185 -7,-90" fill="#241810"/><path d="M-8,-92 Q-5,-66 -7,-58" stroke="#241810" stroke-width="5.5" fill="none" stroke-linecap="round"/><path d="M-20,-222 L20,-222" stroke="#1a120c" stroke-width="1.8"/><circle cx="-7" cy="-58" r="3.2" fill="#241810"/><ellipse cx="0" cy="-221" rx="21" ry="25.5" fill="url(#skin-char_sister)"/><ellipse cx="-16.5" cy="-218" rx="4.8" ry="6.2" fill="url(#skin-char_sister)"/><ellipse cx="16.5" cy="-218" rx="4.8" ry="6.2" fill="url(#skin-char_sister)"/><path d="M-11,-229 Q-8,-232 -4,-229" fill="none" stroke="#3a2418" stroke-width="1.7" stroke-linecap="round"/><path d="M4,-229 Q8,-232 11,-229" fill="none" stroke="#3a2418" stroke-width="1.7" stroke-linecap="round"/><ellipse cx="-7.5" cy="-222.5" rx="5.4" ry="3.1" fill="#fff8ee"/><ellipse cx="7.5" cy="-222.5" rx="5.4" ry="3.1" fill="#fff8ee"/><ellipse cx="-7.5" cy="-222.4" rx="2.3" ry="2.5" fill="#3b2418"/><ellipse cx="7.5" cy="-222.4" rx="2.3" ry="2.5" fill="#3b2418"/><circle cx="-6.7" cy="-223.1" r="0.7" fill="#fff"/><circle cx="8.3" cy="-223.1" r="0.7" fill="#fff"/><path d="M0,-220 Q2.2,-213 0,-210 Q-1.6,-213 0,-220" fill="#a06a48" opacity="0.55"/><path d="M-6.5,-206.5 Q0,-203.2 6.5,-206.5" fill="none" stroke="#8a4a38" stroke-width="1.45" stroke-linecap="round"/><path d="M-5.5,-207.4 Q0,-205.6 5.5,-207.4" fill="none" stroke="#c47a68" stroke-width="0.8" opacity="0.7"/><circle cx="-17.5" cy="-215" r="2.1" fill="#d4a017"/><circle cx="17.5" cy="-215" r="2.1" fill="#d4a017"/></g></g>
+  <text x="28" y="518" font-family="Georgia" font-size="11" fill="#3b2a1a">Age 22 · younger sister</text><text x="28" y="533" font-family="Georgia" font-size="11" fill="#3b2a1a">Long braid, neat middle parting</text><text x="28" y="548" font-family="Georgia" font-size="11" fill="#3b2a1a">Small studs and a thin black thread bracelet</text><text x="28" y="563" font-family="Georgia" font-size="11" fill="#3b2a1a">majhi / rural · same face in every scene</text>
+  <text x="210" y="612" text-anchor="middle" font-family="Georgia" font-size="10" fill="#1e3354">Mint kameez, white salwar, lightweight printed dupatta, no heavy makeu</text>
+</svg>

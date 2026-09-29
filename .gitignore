@@ -1,0 +1,10 @@
+pytest.ini
+.pytest_cache
+__pycache__
+*.pyc
+.venv
+venv
+data/projects
+.env
+.DS_Store
+_extracted

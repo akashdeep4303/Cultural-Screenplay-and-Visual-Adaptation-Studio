@@ -1,0 +1,123 @@
+[
+  {
+    "character_id": "CHAR_MOTHER",
+    "source_name": "Mother",
+    "adapted_name": "Surjit Kaur",
+    "aliases": [
+      "Mother",
+      "Bebe",
+      "Bebe Surjit"
+    ],
+    "age": "55",
+    "role": "bebe / mother and moral centre",
+    "relationships": [
+      "mother of Adam and Sister",
+      "sister of Uncle"
+    ],
+    "personality": "Direct, dignity-first, unwilling to be last to know",
+    "dialect": "Majhi",
+    "emotional_state": "",
+    "entrance_scene": "SC01",
+    "exit_scene": "SC04",
+    "physical_description": "runs the household and keeps the shop accounts in a register; bebe / mother and moral centre",
+    "grooming": "Grey-streaked hair in a bun, sindoor not emphasised",
+    "approved": true
+  },
+  {
+    "character_id": "CHAR_ADAM",
+    "source_name": "Adam",
+    "adapted_name": "Jaswant Singh",
+    "aliases": [
+      "Adam",
+      "Jassi",
+      "Jaswant"
+    ],
+    "age": "28",
+    "role": "puttar / elder son",
+    "relationships": [
+      "son of Mother",
+      "elder brother of Sister",
+      "friend of Friend",
+      "nephew of Uncle"
+    ],
+    "personality": "Avoidant under family pressure; loyal; slow to speak",
+    "dialect": "Majhi",
+    "emotional_state": "",
+    "entrance_scene": "SC01",
+    "exit_scene": "SC04",
+    "physical_description": "college student expected to inherit the family kiryana shop; puttar / elder son",
+    "grooming": "Unshorn hair tied under a navy parna, light stubble",
+    "approved": true
+  },
+  {
+    "character_id": "CHAR_UNCLE",
+    "source_name": "Uncle",
+    "adapted_name": "Mama Jagtar Singh",
+    "aliases": [
+      "Uncle",
+      "Mama",
+      "Jagtar"
+    ],
+    "age": "52",
+    "role": "mama / mother's brother",
+    "relationships": [
+      "maternal uncle of Adam and Sister",
+      "brother of Mother"
+    ],
+    "personality": "Off-stage authority through the letter and the shop",
+    "dialect": "Majhi",
+    "emotional_state": "",
+    "entrance_scene": "SC01",
+    "exit_scene": "",
+    "physical_description": "owns the village kiryana shop on the main chowk; mama / mother's brother",
+    "grooming": "",
+    "approved": true
+  },
+  {
+    "character_id": "CHAR_SISTER",
+    "source_name": "Sister",
+    "adapted_name": "Simran Kaur",
+    "aliases": [
+      "Sister",
+      "Simran",
+      "Kudi"
+    ],
+    "age": "22",
+    "role": "younger sister",
+    "relationships": [
+      "daughter of Mother",
+      "younger sister of Adam"
+    ],
+    "personality": "Clear-eyed, protective, refuses theatrical secrecy",
+    "dialect": "Majhi",
+    "emotional_state": "",
+    "entrance_scene": "SC01",
+    "exit_scene": "SC04",
+    "physical_description": "helps Bebe; applying for a teaching post in the nearby school; younger sister",
+    "grooming": "Long braid, neat middle parting",
+    "approved": true
+  },
+  {
+    "character_id": "CHAR_FRIEND",
+    "source_name": "Friend",
+    "adapted_name": "Harpreet Singh",
+    "aliases": [
+      "Friend",
+      "Happy",
+      "Harpreet"
+    ],
+    "age": "27",
+    "role": "yaar / non-kin confidant",
+    "relationships": [
+      "childhood friend of Adam"
+    ],
+    "personality": "Teasing, locally grounded, pushes Adam toward the house not the street",
+    "dialect": "Majhi",
+    "emotional_state": "",
+    "entrance_scene": "SC02",
+    "exit_scene": "SC03",
+    "physical_description": "drives a small tempo; Adam's childhood yaar from the same pind; yaar / non-kin confidant",
+    "grooming": "Trim beard, practical village-driver look",
+    "approved": true
+  }
+]

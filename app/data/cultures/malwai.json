@@ -1,0 +1,37 @@
+{
+  "id": "malwai",
+  "label": "Malwai Punjabi",
+  "dialect": "Malwai",
+  "language": "Punjabi",
+  "region": "Malwa — Ludhiana / Bathinda belt, Punjab",
+  "setting_default": "rural",
+  "scripts": ["roman", "gurmukhi"],
+  "uncertainty": ["Malwai vowel quality and lexical items differ from Majhi; this pack is kept strictly separate."],
+  "names": {
+    "ADAM": {"adapted_name": "Balwinder Singh", "aliases": ["Bindi"], "work": "college student", "family_role": "putt", "honorific_received": "putt", "age": 28},
+    "MOTHER": {"adapted_name": "Harbans Kaur", "aliases": ["Maa"], "work": "household", "family_role": "maa", "honorific_received": "Maa", "age": 55},
+    "SISTER": {"adapted_name": "Navjot Kaur", "aliases": ["Jo"], "work": "student", "family_role": "sister", "honorific_received": "Navjot", "age": 22},
+    "FRIEND": {"adapted_name": "Gurpreet Singh", "aliases": ["Gopi"], "work": "tractor mechanic", "family_role": "yaar", "honorific_received": "yaar", "age": 27},
+    "UNCLE": {"adapted_name": "Mama Darshan Singh", "aliases": ["Mama"], "work": "grain trader", "family_role": "mama", "honorific_received": "Mama ji", "age": 52}
+  },
+  "locations": {
+    "HOUSE FRONT YARD": {"adapted": "Haveli da sahn", "architecture": "Malwa brick courtyard with a handpump", "urban_variant": "Ludhiana lane courtyard"},
+    "KITCHEN": {"adapted": "Rasoi", "architecture": "Rasoi with a tandoor corner", "urban_variant": "City kitchen"},
+    "MARKET STREET": {"adapted": "Mandi sadak", "architecture": "Cotton-mandi road", "urban_variant": "Chaura Bazaar edge"},
+    "LIVING ROOM": {"adapted": "Baithak", "architecture": "Baithak with a steel almirah", "urban_variant": "Front room"}
+  },
+  "props": {"letter": "envelope from Mama Darshan", "jacket": "denim jacket over kurta", "kettle": "steel kettle", "cups": "steel glasses", "phone": "phone", "lamp": "bulb"},
+  "costumes": {
+    "ADAM": {"garments": "Off-white kurta, beige pajama, denim jacket", "colours": ["beige", "denim"], "jewellery": "Kara", "grooming": "Parna in mustard", "footwear": "Juttis"},
+    "MOTHER": {"garments": "Mustard salwar kameez, orange dupatta", "colours": ["mustard", "orange"], "jewellery": "Gold hoops", "grooming": "Bun", "footwear": "Juttis"},
+    "SISTER": {"garments": "Yellow kameez, chunni", "colours": ["yellow"], "jewellery": "Studs", "grooming": "Braid", "footwear": "Sandals"},
+    "FRIEND": {"garments": "Workshop shirt, oil-stained pajama", "colours": ["grey"], "jewellery": "Kara", "grooming": "Short beard", "footwear": "Boots"}
+  },
+  "food_sound": {"food": ["makki di roti, sarson da saag"], "sound": ["tractor at noon"]},
+  "gestures": {"greeting": "Sat sri akaal", "respect": "Do not refuse Maa in the mandi", "conflict": "Blunter Malwai cadence", "touch": "Limited public touch"},
+  "humour": "Flatter, more direct teasing than Majhi",
+  "kinship_rules": ["Mother is Maa in this pack, never Bebe, to prevent Majhi leakage."],
+  "story_world": {"stakes": "Shop as grain-side izzat", "community": "Malwa neighbours talk fast", "resolution": "Letter read at home"},
+  "palette": {"earth": "#c9a227", "brick": "#b85c38", "maroon": "#8a3b12", "mint": "#b5c46b", "navy": "#3b4a2a", "gold": "#e0b422", "dust": "#efe0b8", "peepal": "#4a6b32", "sky_morning": "#f6d48a", "sky_afternoon": "#f7e7b0", "sky_evening": "#d9893b"},
+  "glossary_en_to_roman": {"I am sorry": "maafi, Maa"}
+}
